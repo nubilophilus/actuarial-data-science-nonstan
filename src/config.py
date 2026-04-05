@@ -8,10 +8,10 @@ PROCESSED_DIR = DATA_DIR / "processed"
 NOTEBOOKS_DIR = BASE_DIR / "notebooks"
 DOCS_DIR = BASE_DIR / "docs"
 
-CLAIMS_FILE = DATA_DIR / "synthetic_claims.csv"
-FNOL_FILE = DATA_DIR / "synthetic_fnol.csv"
-MESSAGES_FILE = DATA_DIR / "synthetic_messages.csv"
-POLICY_FILE = DATA_DIR / "synthetic_policy.csv"
+CLAIMS_FILE = RAW_DIR / "synthetic_claims.csv"
+FNOL_FILE = RAW_DIR / "synthetic_fnol.csv"
+MESSAGES_FILE = RAW_DIR / "synthetic_messages.csv"
+POLICY_FILE = RAW_DIR / "synthetic_policy.csv"
 
 ANALYTICAL_BASE_TABLE_FILE = PROCESSED_DIR / "analytical_base_table.csv"
 MODEL_RESULTS_FILE = PROCESSED_DIR / "model_results.json"
@@ -27,4 +27,3 @@ WEATHER_CONDITIONS = ["clear", "rain", "fog", "wind", "night_clear"]
 POINTS_OF_IMPACT = ["rear_end", "front_end", "left_side", "right_side", "multi_point"]
 LIABILITY_DECISIONS = ["insured_at_fault", "comparative_negligence", "not_at_fault", "under_investigation"]
 RISK_TIERS = ["tier_1", "tier_2", "tier_3", "tier_4"]
-

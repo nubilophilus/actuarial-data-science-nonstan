@@ -14,8 +14,4 @@ coverage.xml
 htmlcov/
 src/__pycache__/
 tests/__pycache__/
-data/raw/*
-data/processed/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
 *.log

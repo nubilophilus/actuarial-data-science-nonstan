@@ -1,0 +1,116 @@
+{
+  "severity_model": {
+    "features": [
+      "state",
+      "claim_type",
+      "injury_flag",
+      "attorney_rep_flag",
+      "bodily_injury_flag",
+      "liability_decision",
+      "closed_flag",
+      "days_to_close",
+      "report_lag_days",
+      "reporting_channel",
+      "police_report_flag",
+      "witness_flag",
+      "loss_location",
+      "weather_condition",
+      "point_of_impact",
+      "injury_reported_at_fnol",
+      "message_count",
+      "avg_sentiment_score",
+      "avg_response_latency_minutes",
+      "message_escalation_rate",
+      "claimant_message_share",
+      "attorney_message_share",
+      "policy_state",
+      "vehicle_count",
+      "driver_count",
+      "prior_claim_count",
+      "coverage_limit_bi",
+      "coverage_limit_pd",
+      "premium_amount",
+      "nonstandard_risk_tier",
+      "coverage_per_driver",
+      "exposure_complexity_index",
+      "early_injury_signal",
+      "high_latency_flag",
+      "negative_sentiment_flag"
+    ],
+    "metrics": {
+      "train": {
+        "mae": 1010.6391680062562,
+        "rmse": 2027.6884982867568,
+        "r2": 0.8917664727736168
+      },
+      "test": {
+        "mae": 3467.4902739457525,
+        "rmse": 5904.264274584821,
+        "r2": 0.34814614366449625
+      }
+    },
+    "interpretation": [
+      "Severity is typically influenced by injury involvement, attorney representation, policy limits, prior claims, reporting lag, and communication escalation signals."
+    ]
+  },
+  "bodily_injury_model": {
+    "features": [
+      "state",
+      "claim_type",
+      "injury_flag",
+      "attorney_rep_flag",
+      "liability_decision",
+      "report_lag_days",
+      "reporting_channel",
+      "police_report_flag",
+      "witness_flag",
+      "loss_location",
+      "weather_condition",
+      "point_of_impact",
+      "injury_reported_at_fnol",
+      "message_count",
+      "avg_sentiment_score",
+      "avg_response_latency_minutes",
+      "message_escalation_rate",
+      "claimant_message_share",
+      "attorney_message_share",
+      "vehicle_count",
+      "driver_count",
+      "prior_claim_count",
+      "coverage_limit_bi",
+      "premium_amount",
+      "nonstandard_risk_tier",
+      "coverage_per_driver",
+      "exposure_complexity_index",
+      "early_injury_signal",
+      "high_latency_flag",
+      "negative_sentiment_flag"
+    ],
+    "metrics": {
+      "train": {
+        "accuracy": 0.9608888888888889,
+        "precision": 0.9552238805970149,
+        "recall": 0.8458149779735683,
+        "f1": 0.897196261682243,
+        "roc_auc": 0.993769806618722
+      },
+      "test": {
+        "accuracy": 0.9013333333333333,
+        "precision": 0.8979591836734694,
+        "recall": 0.5789473684210527,
+        "f1": 0.704,
+        "roc_auc": 0.9564337264566097
+      }
+    },
+    "interpretation": [
+      "BI exposure is expected to increase with early injury signals, attorney involvement, certain impact types, adverse communications, and higher-risk non-standard segments."
+    ]
+  },
+  "row_counts": {
+    "claims": 1500,
+    "fnol": 1500,
+    "messages": 4940,
+    "policy": 1080,
+    "analytical_base_table": 1500
+  }
+}

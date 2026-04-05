@@ -45,11 +45,13 @@ This repository demonstrates how to build that capability from synthetic but rea
 │       └── ci.yml
 ├── data/
 │   ├── processed/
-│   ├── raw/
-│   ├── synthetic_claims.csv
-│   ├── synthetic_fnol.csv
-│   ├── synthetic_messages.csv
-│   └── synthetic_policy.csv
+│   │   ├── analytical_base_table.csv
+│   │   └── model_results.json
+│   └── raw/
+│       ├── synthetic_claims.csv
+│       ├── synthetic_fnol.csv
+│       ├── synthetic_messages.csv
+│       └── synthetic_policy.csv
 ├── docs/
 │   ├── architecture.md
 │   ├── business_context.md
@@ -99,7 +101,7 @@ Additional detail is documented in [docs/architecture.md](docs/architecture.md).
 
 ## Dataset Overview
 
-The project includes four linked synthetic datasets:
+The project includes four linked synthetic datasets stored in `data/raw/`:
 
 - `synthetic_claims.csv`: claim-level Guidewire-style records with reserve, paid, liability, and closure information
 - `synthetic_fnol.csv`: FNOL loss intake details, including reporting channel, police report status, witness presence, and early injury signals
@@ -195,10 +197,10 @@ To open the notebooks:
 
 Running the pipeline generates:
 
-- `data/synthetic_claims.csv`
-- `data/synthetic_fnol.csv`
-- `data/synthetic_messages.csv`
-- `data/synthetic_policy.csv`
+- `data/raw/synthetic_claims.csv`
+- `data/raw/synthetic_fnol.csv`
+- `data/raw/synthetic_messages.csv`
+- `data/raw/synthetic_policy.csv`
 - `data/processed/analytical_base_table.csv`
 - `data/processed/model_results.json`
 
@@ -241,4 +243,3 @@ This project is tailored for recruiters, hiring managers, and technical reviewer
 ## License
 
 This project is released under the [MIT License](LICENSE).
-
