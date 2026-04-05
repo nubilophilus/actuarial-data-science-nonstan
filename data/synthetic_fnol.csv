@@ -1,0 +1,1501 @@
+fnol_id,claim_id,reporting_channel,description_of_loss,police_report_flag,witness_flag,loss_location,weather_condition,point_of_impact,injury_reported_at_fnol
+FNOL300000,CLM200000,mobile_app,rear end accident with fog conditions,0,0.0,parking_lot,rain,left_side,0
+FNOL300001,CLM200001,phone,multi point accident with wind conditions,0,0.0,residential_street,fog,rear_end,0
+FNOL300002,CLM200002,phone,right side accident with fog conditions,0,1.0,parking_lot,fog,front_end,1
+FNOL300003,CLM200003,agent,right side accident with night clear conditions,0,0.0,parking_lot,clear,left_side,1
+FNOL300004,CLM200004,phone,right side accident with wind conditions,0,0.0,highway,clear,rear_end,0
+FNOL300005,CLM200005,phone,left side accident with night clear conditions,1,0.0,parking_lot,rain,multi_point,0
+FNOL300006,CLM200006,web_portal,left side accident with night clear conditions,0,0.0,residential_street,clear,left_side,0
+FNOL300007,CLM200007,phone,rear end accident with night clear conditions,0,0.0,residential_street,fog,rear_end,0
+FNOL300008,CLM200008,agent,multi point accident with fog conditions,1,0.0,highway,fog,front_end,0
+FNOL300009,CLM200009,phone,multi point accident with night clear conditions,0,0.0,intersection,clear,right_side,1
+FNOL300010,CLM200010,agent,multi point accident with wind conditions,0,1.0,urban_arterial,night_clear,front_end,0
+FNOL300011,CLM200011,phone,right side accident with clear conditions,0,0.0,urban_arterial,night_clear,multi_point,0
+FNOL300012,CLM200012,phone,front end accident with clear conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL300013,CLM200013,mobile_app,front end accident with rain conditions,0,0.0,intersection,rain,rear_end,0
+FNOL300014,CLM200014,agent,multi point accident with fog conditions,1,0.0,parking_lot,clear,front_end,0
+FNOL300015,CLM200015,phone,front end accident with clear conditions,0,0.0,highway,night_clear,rear_end,0
+FNOL300016,CLM200016,phone,right side accident with fog conditions,0,0.0,urban_arterial,rain,rear_end,1
+FNOL300017,CLM200017,phone,right side accident with wind conditions,1,0.0,urban_arterial,fog,front_end,0
+FNOL300018,CLM200018,phone,rear end accident with wind conditions,0,0.0,parking_lot,night_clear,rear_end,0
+FNOL300019,CLM200019,agent,rear end accident with night clear conditions,0,0.0,residential_street,fog,rear_end,0
+FNOL300020,CLM200020,agent,rear end accident with rain conditions,1,0.0,parking_lot,night_clear,rear_end,0
+FNOL300021,CLM200021,web_portal,right side accident with clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300022,CLM200022,mobile_app,front end accident with night clear conditions,1,0.0,intersection,clear,rear_end,0
+FNOL300023,CLM200023,mobile_app,front end accident with fog conditions,0,0.0,highway,rain,rear_end,0
+FNOL300024,CLM200024,mobile_app,multi point accident with wind conditions,0,0.0,intersection,night_clear,multi_point,0
+FNOL300025,CLM200025,phone,left side accident with fog conditions,1,0.0,highway,clear,rear_end,0
+FNOL300026,CLM200026,phone,rear end accident with fog conditions,0,0.0,parking_lot,rain,rear_end,0
+FNOL300027,CLM200027,web_portal,front end accident with clear conditions,1,0.0,residential_street,night_clear,multi_point,0
+FNOL300028,CLM200028,agent,left side accident with fog conditions,0,0.0,intersection,clear,right_side,0
+FNOL300029,CLM200029,phone,left side accident with night clear conditions,0,0.0,highway,rain,rear_end,0
+FNOL300030,CLM200030,agent,right side accident with clear conditions,1,0.0,parking_lot,clear,right_side,0
+FNOL300031,CLM200031,web_portal,multi point accident with rain conditions,1,0.0,residential_street,clear,right_side,0
+FNOL300032,CLM200032,agent,rear end accident with night clear conditions,1,0.0,intersection,clear,right_side,0
+FNOL300033,CLM200033,agent,front end accident with fog conditions,0,0.0,urban_arterial,night_clear,left_side,0
+FNOL300034,CLM200034,phone,right side accident with clear conditions,0,0.0,residential_street,clear,left_side,0
+FNOL300035,CLM200035,phone,rear end accident with night clear conditions,0,0.0,urban_arterial,clear,multi_point,0
+FNOL300036,CLM200036,web_portal,left side accident with clear conditions,0,0.0,intersection,fog,front_end,0
+FNOL300037,CLM200037,agent,rear end accident with rain conditions,1,1.0,intersection,clear,right_side,0
+FNOL300038,CLM200038,phone,left side accident with fog conditions,1,0.0,parking_lot,rain,rear_end,0
+FNOL300039,CLM200039,mobile_app,rear end accident with rain conditions,0,0.0,residential_street,rain,left_side,1
+FNOL300040,CLM200040,agent,right side accident with fog conditions,0,0.0,parking_lot,night_clear,multi_point,0
+FNOL300041,CLM200041,phone,left side accident with wind conditions,1,1.0,residential_street,night_clear,rear_end,1
+FNOL300042,CLM200042,phone,multi point accident with fog conditions,0,0.0,highway,clear,rear_end,0
+FNOL300043,CLM200043,phone,rear end accident with fog conditions,0,0.0,intersection,fog,right_side,0
+FNOL300044,CLM200044,phone,multi point accident with wind conditions,0,0.0,residential_street,rain,right_side,0
+FNOL300045,CLM200045,mobile_app,left side accident with wind conditions,0,0.0,highway,clear,right_side,0
+FNOL300046,CLM200046,phone,left side accident with wind conditions,1,1.0,parking_lot,rain,multi_point,0
+FNOL300047,CLM200047,web_portal,right side accident with fog conditions,0,0.0,urban_arterial,night_clear,rear_end,1
+FNOL300048,CLM200048,phone,right side accident with fog conditions,0,1.0,parking_lot,wind,left_side,0
+FNOL300049,CLM200049,agent,multi point accident with rain conditions,1,1.0,residential_street,rain,left_side,0
+FNOL300050,CLM200050,phone,multi point accident with fog conditions,1,0.0,parking_lot,clear,rear_end,0
+FNOL300051,CLM200051,agent,front end accident with clear conditions,1,1.0,urban_arterial,rain,rear_end,0
+FNOL300052,CLM200052,phone,front end accident with clear conditions,1,0.0,parking_lot,rain,left_side,0
+FNOL300053,CLM200053,web_portal,multi point accident with night clear conditions,0,0.0,parking_lot,rain,left_side,0
+FNOL300054,CLM200054,phone,multi point accident with night clear conditions,1,0.0,parking_lot,night_clear,left_side,0
+FNOL300055,CLM200055,mobile_app,multi point accident with rain conditions,0,0.0,residential_street,night_clear,front_end,0
+FNOL300056,CLM200056,phone,multi point accident with fog conditions,1,0.0,parking_lot,night_clear,left_side,1
+FNOL300057,CLM200057,phone,right side accident with night clear conditions,0,0.0,residential_street,wind,rear_end,1
+FNOL300058,CLM200058,web_portal,multi point accident with fog conditions,0,0.0,urban_arterial,rain,rear_end,1
+FNOL300059,CLM200059,phone,right side accident with clear conditions,0,0.0,urban_arterial,clear,left_side,0
+FNOL300060,CLM200060,agent,multi point accident with fog conditions,1,0.0,highway,night_clear,left_side,0
+FNOL300061,CLM200061,mobile_app,left side accident with night clear conditions,0,0.0,intersection,rain,right_side,0
+FNOL300062,CLM200062,phone,multi point accident with rain conditions,0,0.0,highway,clear,front_end,0
+FNOL300063,CLM200063,agent,rear end accident with night clear conditions,1,0.0,parking_lot,clear,right_side,0
+FNOL300064,CLM200064,phone,multi point accident with wind conditions,1,0.0,parking_lot,night_clear,multi_point,0
+FNOL300065,CLM200065,agent,multi point accident with clear conditions,0,1.0,highway,clear,front_end,0
+FNOL300066,CLM200066,phone,right side accident with night clear conditions,0,1.0,urban_arterial,wind,front_end,0
+FNOL300067,CLM200067,mobile_app,multi point accident with wind conditions,0,0.0,highway,rain,multi_point,0
+FNOL300068,CLM200068,agent,left side accident with rain conditions,0,0.0,highway,clear,rear_end,0
+FNOL300069,CLM200069,phone,front end accident with wind conditions,1,0.0,urban_arterial,night_clear,right_side,0
+FNOL300070,CLM200070,web_portal,rear end accident with night clear conditions,1,,intersection,night_clear,left_side,0
+FNOL300071,CLM200071,phone,rear end accident with wind conditions,0,0.0,intersection,clear,front_end,0
+FNOL300072,CLM200072,web_portal,multi point accident with night clear conditions,0,1.0,urban_arterial,clear,right_side,0
+FNOL300073,CLM200073,phone,rear end accident with night clear conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL300074,CLM200074,phone,front end accident with rain conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300075,CLM200075,phone,left side accident with clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300076,CLM200076,web_portal,front end accident with night clear conditions,0,1.0,intersection,night_clear,right_side,0
+FNOL300077,CLM200077,agent,multi point accident with night clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300078,CLM200078,agent,rear end accident with rain conditions,0,0.0,residential_street,rain,left_side,0
+FNOL300079,CLM200079,web_portal,rear end accident with fog conditions,0,0.0,intersection,clear,rear_end,1
+FNOL300080,CLM200080,agent,front end accident with fog conditions,0,1.0,highway,clear,front_end,0
+FNOL300081,CLM200081,agent,right side accident with rain conditions,0,0.0,urban_arterial,clear,front_end,0
+FNOL300082,CLM200082,mobile_app,front end accident with fog conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300083,CLM200083,phone,multi point accident with fog conditions,1,0.0,residential_street,wind,front_end,1
+FNOL300084,CLM200084,web_portal,rear end accident with night clear conditions,0,1.0,intersection,night_clear,rear_end,1
+FNOL300085,CLM200085,phone,front end accident with rain conditions,1,0.0,parking_lot,rain,rear_end,0
+FNOL300086,CLM200086,agent,right side accident with clear conditions,0,0.0,intersection,night_clear,front_end,0
+FNOL300087,CLM200087,phone,right side accident with fog conditions,1,0.0,highway,clear,left_side,0
+FNOL300088,CLM200088,phone,left side accident with clear conditions,0,0.0,highway,rain,rear_end,0
+FNOL300089,CLM200089,agent,left side accident with clear conditions,0,0.0,parking_lot,night_clear,rear_end,0
+FNOL300090,CLM200090,phone,rear end accident with wind conditions,0,0.0,residential_street,rain,front_end,0
+FNOL300091,CLM200091,agent,rear end accident with night clear conditions,0,0.0,urban_arterial,night_clear,multi_point,0
+FNOL300092,CLM200092,agent,rear end accident with clear conditions,0,0.0,highway,rain,left_side,0
+FNOL300093,CLM200093,mobile_app,left side accident with rain conditions,0,0.0,intersection,night_clear,multi_point,1
+FNOL300094,CLM200094,web_portal,multi point accident with clear conditions,0,0.0,intersection,clear,front_end,0
+FNOL300095,CLM200095,phone,rear end accident with fog conditions,1,0.0,parking_lot,clear,right_side,1
+FNOL300096,CLM200096,phone,rear end accident with fog conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300097,CLM200097,agent,right side accident with night clear conditions,1,1.0,intersection,night_clear,left_side,1
+FNOL300098,CLM200098,phone,left side accident with night clear conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL300099,CLM200099,phone,front end accident with night clear conditions,0,0.0,residential_street,clear,right_side,1
+FNOL300100,CLM200100,phone,rear end accident with fog conditions,1,0.0,residential_street,night_clear,right_side,1
+FNOL300101,CLM200101,web_portal,multi point accident with wind conditions,0,0.0,intersection,rain,right_side,0
+FNOL300102,CLM200102,web_portal,right side accident with rain conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL300103,CLM200103,phone,left side accident with clear conditions,0,1.0,intersection,clear,left_side,0
+FNOL300104,CLM200104,phone,front end accident with night clear conditions,0,0.0,parking_lot,wind,right_side,1
+FNOL300105,CLM200105,agent,multi point accident with night clear conditions,1,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300106,CLM200106,phone,rear end accident with clear conditions,0,0.0,residential_street,wind,rear_end,0
+FNOL300107,CLM200107,phone,right side accident with clear conditions,0,0.0,urban_arterial,clear,left_side,0
+FNOL300108,CLM200108,phone,right side accident with night clear conditions,0,0.0,residential_street,rain,rear_end,1
+FNOL300109,CLM200109,web_portal,right side accident with fog conditions,0,0.0,residential_street,clear,rear_end,1
+FNOL300110,CLM200110,phone,right side accident with wind conditions,0,0.0,parking_lot,night_clear,multi_point,0
+FNOL300111,CLM200111,phone,front end accident with night clear conditions,0,0.0,residential_street,wind,multi_point,1
+FNOL300112,CLM200112,mobile_app,left side accident with fog conditions,0,0.0,intersection,night_clear,front_end,0
+FNOL300113,CLM200113,phone,left side accident with clear conditions,0,1.0,highway,rain,multi_point,0
+FNOL300114,CLM200114,agent,multi point accident with wind conditions,1,0.0,intersection,clear,right_side,1
+FNOL300115,CLM200115,agent,right side accident with clear conditions,0,1.0,intersection,wind,left_side,0
+FNOL300116,CLM200116,web_portal,left side accident with wind conditions,1,0.0,parking_lot,rain,right_side,0
+FNOL300117,CLM200117,phone,right side accident with fog conditions,0,0.0,highway,clear,multi_point,0
+FNOL300118,CLM200118,phone,multi point accident with fog conditions,0,0.0,intersection,wind,right_side,0
+FNOL300119,CLM200119,mobile_app,right side accident with fog conditions,1,0.0,intersection,clear,rear_end,0
+FNOL300120,CLM200120,phone,front end accident with night clear conditions,0,0.0,intersection,wind,rear_end,0
+FNOL300121,CLM200121,web_portal,rear end accident with rain conditions,0,0.0,urban_arterial,fog,front_end,0
+FNOL300122,CLM200122,phone,multi point accident with night clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300123,CLM200123,web_portal,rear end accident with night clear conditions,0,1.0,urban_arterial,wind,rear_end,1
+FNOL300124,CLM200124,phone,left side accident with night clear conditions,0,0.0,residential_street,clear,front_end,1
+FNOL300125,CLM200125,mobile_app,rear end accident with night clear conditions,0,0.0,parking_lot,rain,rear_end,0
+FNOL300126,CLM200126,phone,multi point accident with wind conditions,0,1.0,highway,night_clear,rear_end,0
+FNOL300127,CLM200127,phone,rear end accident with night clear conditions,0,0.0,highway,night_clear,right_side,0
+FNOL300128,CLM200128,mobile_app,right side accident with wind conditions,0,1.0,residential_street,clear,rear_end,0
+FNOL300129,CLM200129,mobile_app,right side accident with clear conditions,0,0.0,highway,fog,left_side,0
+FNOL300130,CLM200130,agent,right side accident with clear conditions,1,0.0,residential_street,rain,left_side,0
+FNOL300131,CLM200131,phone,left side accident with wind conditions,0,0.0,urban_arterial,night_clear,multi_point,1
+FNOL300132,CLM200132,phone,left side accident with fog conditions,0,1.0,highway,clear,rear_end,0
+FNOL300133,CLM200133,mobile_app,left side accident with night clear conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL300134,CLM200134,phone,right side accident with fog conditions,0,0.0,intersection,clear,left_side,1
+FNOL300135,CLM200135,agent,rear end accident with rain conditions,0,0.0,residential_street,night_clear,left_side,0
+FNOL300136,CLM200136,phone,multi point accident with night clear conditions,1,1.0,highway,night_clear,right_side,1
+FNOL300137,CLM200137,agent,right side accident with fog conditions,1,0.0,intersection,clear,rear_end,0
+FNOL300138,CLM200138,web_portal,multi point accident with night clear conditions,0,0.0,intersection,rain,rear_end,0
+FNOL300139,CLM200139,phone,rear end accident with clear conditions,1,0.0,parking_lot,clear,rear_end,0
+FNOL300140,CLM200140,phone,front end accident with clear conditions,0,0.0,residential_street,clear,right_side,1
+FNOL300141,CLM200141,mobile_app,front end accident with clear conditions,0,0.0,highway,clear,rear_end,0
+FNOL300142,CLM200142,mobile_app,left side accident with night clear conditions,1,1.0,parking_lot,night_clear,rear_end,0
+FNOL300143,CLM200143,phone,multi point accident with clear conditions,0,0.0,intersection,clear,left_side,0
+FNOL300144,CLM200144,mobile_app,right side accident with wind conditions,0,0.0,intersection,rain,rear_end,0
+FNOL300145,CLM200145,web_portal,right side accident with wind conditions,1,1.0,urban_arterial,night_clear,rear_end,0
+FNOL300146,CLM200146,mobile_app,front end accident with night clear conditions,0,0.0,highway,clear,rear_end,0
+FNOL300147,CLM200147,mobile_app,rear end accident with wind conditions,0,0.0,intersection,rain,right_side,0
+FNOL300148,CLM200148,agent,right side accident with clear conditions,1,0.0,intersection,night_clear,left_side,0
+FNOL300149,CLM200149,mobile_app,rear end accident with clear conditions,1,0.0,parking_lot,night_clear,front_end,0
+FNOL300150,CLM200150,phone,front end accident with clear conditions,0,0.0,urban_arterial,clear,front_end,0
+FNOL300151,CLM200151,phone,left side accident with fog conditions,0,1.0,parking_lot,clear,multi_point,0
+FNOL300152,CLM200152,phone,right side accident with fog conditions,1,1.0,residential_street,wind,rear_end,1
+FNOL300153,CLM200153,phone,right side accident with clear conditions,0,0.0,highway,clear,rear_end,0
+FNOL300154,CLM200154,phone,rear end accident with clear conditions,1,0.0,highway,rain,right_side,1
+FNOL300155,CLM200155,web_portal,front end accident with rain conditions,0,1.0,highway,clear,front_end,1
+FNOL300156,CLM200156,phone,multi point accident with fog conditions,0,0.0,residential_street,night_clear,multi_point,0
+FNOL300157,CLM200157,web_portal,left side accident with night clear conditions,0,0.0,urban_arterial,clear,left_side,0
+FNOL300158,CLM200158,phone,right side accident with night clear conditions,0,0.0,residential_street,rain,right_side,1
+FNOL300159,CLM200159,phone,front end accident with fog conditions,0,0.0,urban_arterial,wind,left_side,1
+FNOL300160,CLM200160,phone,multi point accident with rain conditions,0,0.0,highway,clear,rear_end,0
+FNOL300161,CLM200161,mobile_app,left side accident with wind conditions,1,1.0,intersection,rain,multi_point,0
+FNOL300162,CLM200162,phone,rear end accident with night clear conditions,0,0.0,parking_lot,night_clear,front_end,0
+FNOL300163,CLM200163,phone,right side accident with rain conditions,0,0.0,urban_arterial,fog,rear_end,0
+FNOL300164,CLM200164,mobile_app,front end accident with fog conditions,0,1.0,parking_lot,clear,rear_end,1
+FNOL300165,CLM200165,phone,multi point accident with clear conditions,1,1.0,urban_arterial,night_clear,rear_end,1
+FNOL300166,CLM200166,phone,right side accident with clear conditions,0,1.0,residential_street,clear,rear_end,0
+FNOL300167,CLM200167,phone,rear end accident with night clear conditions,1,1.0,highway,clear,rear_end,1
+FNOL300168,CLM200168,phone,rear end accident with rain conditions,0,1.0,intersection,clear,rear_end,0
+FNOL300169,CLM200169,phone,rear end accident with clear conditions,0,0.0,urban_arterial,fog,multi_point,0
+FNOL300170,CLM200170,phone,front end accident with rain conditions,0,1.0,intersection,clear,left_side,0
+FNOL300171,CLM200171,mobile_app,rear end accident with rain conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300172,CLM200172,mobile_app,right side accident with rain conditions,0,0.0,highway,rain,rear_end,1
+FNOL300173,CLM200173,agent,rear end accident with wind conditions,0,0.0,intersection,clear,right_side,0
+FNOL300174,CLM200174,agent,left side accident with fog conditions,0,0.0,highway,wind,right_side,0
+FNOL300175,CLM200175,phone,front end accident with fog conditions,1,1.0,parking_lot,rain,rear_end,1
+FNOL300176,CLM200176,phone,right side accident with night clear conditions,0,1.0,intersection,rain,multi_point,1
+FNOL300177,CLM200177,agent,rear end accident with night clear conditions,0,0.0,highway,clear,rear_end,0
+FNOL300178,CLM200178,phone,left side accident with rain conditions,0,1.0,urban_arterial,night_clear,rear_end,1
+FNOL300179,CLM200179,mobile_app,multi point accident with night clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300180,CLM200180,web_portal,front end accident with wind conditions,1,0.0,urban_arterial,clear,multi_point,0
+FNOL300181,CLM200181,mobile_app,multi point accident with clear conditions,0,0.0,intersection,clear,right_side,0
+FNOL300182,CLM200182,phone,rear end accident with rain conditions,0,0.0,highway,night_clear,left_side,0
+FNOL300183,CLM200183,phone,right side accident with rain conditions,0,0.0,highway,rain,front_end,0
+FNOL300184,CLM200184,phone,front end accident with wind conditions,0,0.0,highway,clear,rear_end,1
+FNOL300185,CLM200185,phone,front end accident with wind conditions,0,1.0,residential_street,clear,rear_end,0
+FNOL300186,CLM200186,phone,left side accident with wind conditions,0,0.0,intersection,rain,rear_end,1
+FNOL300187,CLM200187,web_portal,right side accident with clear conditions,0,0.0,highway,clear,right_side,0
+FNOL300188,CLM200188,phone,left side accident with fog conditions,1,0.0,residential_street,rain,left_side,0
+FNOL300189,CLM200189,phone,left side accident with fog conditions,0,0.0,highway,clear,front_end,0
+FNOL300190,CLM200190,phone,front end accident with wind conditions,0,1.0,urban_arterial,clear,multi_point,0
+FNOL300191,CLM200191,agent,right side accident with rain conditions,0,0.0,highway,wind,rear_end,0
+FNOL300192,CLM200192,phone,rear end accident with clear conditions,0,1.0,residential_street,rain,rear_end,0
+FNOL300193,CLM200193,phone,rear end accident with night clear conditions,0,0.0,residential_street,clear,rear_end,1
+FNOL300194,CLM200194,mobile_app,rear end accident with fog conditions,0,0.0,highway,clear,multi_point,0
+FNOL300195,CLM200195,phone,multi point accident with night clear conditions,1,0.0,intersection,night_clear,rear_end,0
+FNOL300196,CLM200196,phone,right side accident with fog conditions,0,0.0,highway,night_clear,rear_end,0
+FNOL300197,CLM200197,phone,front end accident with rain conditions,0,0.0,intersection,wind,rear_end,0
+FNOL300198,CLM200198,agent,right side accident with fog conditions,0,0.0,urban_arterial,night_clear,multi_point,1
+FNOL300199,CLM200199,mobile_app,front end accident with clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300200,CLM200200,mobile_app,right side accident with fog conditions,0,1.0,highway,clear,left_side,0
+FNOL300201,CLM200201,agent,front end accident with night clear conditions,0,1.0,residential_street,clear,right_side,1
+FNOL300202,CLM200202,mobile_app,right side accident with rain conditions,1,0.0,intersection,clear,left_side,1
+FNOL300203,CLM200203,phone,front end accident with clear conditions,0,0.0,parking_lot,night_clear,rear_end,0
+FNOL300204,CLM200204,mobile_app,rear end accident with clear conditions,1,1.0,highway,clear,rear_end,1
+FNOL300205,CLM200205,mobile_app,multi point accident with clear conditions,1,0.0,parking_lot,rain,rear_end,0
+FNOL300206,CLM200206,phone,right side accident with rain conditions,0,0.0,highway,clear,right_side,0
+FNOL300207,CLM200207,web_portal,right side accident with rain conditions,0,0.0,urban_arterial,night_clear,right_side,0
+FNOL300208,CLM200208,phone,right side accident with wind conditions,0,0.0,parking_lot,night_clear,rear_end,1
+FNOL300209,CLM200209,phone,multi point accident with rain conditions,0,0.0,intersection,wind,front_end,0
+FNOL300210,CLM200210,phone,rear end accident with rain conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL300211,CLM200211,phone,multi point accident with clear conditions,0,0.0,parking_lot,night_clear,front_end,0
+FNOL300212,CLM200212,agent,left side accident with fog conditions,0,0.0,intersection,night_clear,rear_end,0
+FNOL300213,CLM200213,mobile_app,left side accident with rain conditions,1,0.0,residential_street,fog,multi_point,1
+FNOL300214,CLM200214,phone,multi point accident with wind conditions,1,0.0,residential_street,rain,front_end,1
+FNOL300215,CLM200215,mobile_app,multi point accident with clear conditions,1,1.0,urban_arterial,clear,rear_end,0
+FNOL300216,CLM200216,agent,front end accident with wind conditions,0,0.0,urban_arterial,wind,front_end,0
+FNOL300217,CLM200217,phone,multi point accident with night clear conditions,1,0.0,highway,night_clear,multi_point,0
+FNOL300218,CLM200218,mobile_app,rear end accident with wind conditions,0,1.0,parking_lot,clear,rear_end,1
+FNOL300219,CLM200219,web_portal,rear end accident with rain conditions,0,0.0,highway,clear,right_side,0
+FNOL300220,CLM200220,phone,front end accident with wind conditions,1,0.0,residential_street,clear,front_end,0
+FNOL300221,CLM200221,mobile_app,front end accident with night clear conditions,1,0.0,residential_street,night_clear,left_side,0
+FNOL300222,CLM200222,web_portal,right side accident with fog conditions,1,0.0,urban_arterial,rain,front_end,0
+FNOL300223,CLM200223,agent,left side accident with wind conditions,0,0.0,parking_lot,night_clear,right_side,0
+FNOL300224,CLM200224,agent,multi point accident with night clear conditions,0,0.0,parking_lot,rain,left_side,0
+FNOL300225,CLM200225,agent,right side accident with fog conditions,1,0.0,residential_street,clear,front_end,0
+FNOL300226,CLM200226,phone,right side accident with clear conditions,0,0.0,residential_street,rain,right_side,0
+FNOL300227,CLM200227,agent,right side accident with night clear conditions,0,1.0,highway,clear,rear_end,0
+FNOL300228,CLM200228,web_portal,left side accident with rain conditions,1,0.0,residential_street,rain,rear_end,0
+FNOL300229,CLM200229,phone,front end accident with rain conditions,0,0.0,parking_lot,rain,rear_end,0
+FNOL300230,CLM200230,agent,rear end accident with wind conditions,0,0.0,parking_lot,rain,left_side,1
+FNOL300231,CLM200231,agent,multi point accident with clear conditions,0,0.0,parking_lot,clear,right_side,0
+FNOL300232,CLM200232,web_portal,front end accident with rain conditions,0,0.0,urban_arterial,rain,left_side,0
+FNOL300233,CLM200233,phone,right side accident with fog conditions,0,0.0,parking_lot,night_clear,front_end,0
+FNOL300234,CLM200234,phone,right side accident with wind conditions,0,1.0,highway,clear,rear_end,0
+FNOL300235,CLM200235,agent,front end accident with clear conditions,0,1.0,urban_arterial,night_clear,multi_point,1
+FNOL300236,CLM200236,agent,rear end accident with night clear conditions,0,1.0,urban_arterial,rain,rear_end,0
+FNOL300237,CLM200237,phone,right side accident with rain conditions,0,0.0,intersection,rain,rear_end,0
+FNOL300238,CLM200238,phone,front end accident with night clear conditions,1,0.0,parking_lot,clear,right_side,0
+FNOL300239,CLM200239,mobile_app,multi point accident with night clear conditions,0,0.0,intersection,clear,multi_point,0
+FNOL300240,CLM200240,phone,left side accident with wind conditions,1,0.0,residential_street,wind,rear_end,0
+FNOL300241,CLM200241,mobile_app,front end accident with night clear conditions,0,0.0,intersection,night_clear,front_end,0
+FNOL300242,CLM200242,agent,right side accident with clear conditions,0,0.0,residential_street,rain,right_side,0
+FNOL300243,CLM200243,phone,front end accident with fog conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300244,CLM200244,web_portal,right side accident with clear conditions,1,0.0,urban_arterial,wind,multi_point,1
+FNOL300245,CLM200245,mobile_app,right side accident with fog conditions,0,0.0,parking_lot,night_clear,rear_end,0
+FNOL300246,CLM200246,phone,multi point accident with fog conditions,0,0.0,residential_street,fog,front_end,0
+FNOL300247,CLM200247,phone,left side accident with fog conditions,0,1.0,highway,clear,rear_end,0
+FNOL300248,CLM200248,mobile_app,rear end accident with clear conditions,1,0.0,urban_arterial,rain,rear_end,0
+FNOL300249,CLM200249,web_portal,rear end accident with clear conditions,0,0.0,highway,night_clear,rear_end,0
+FNOL300250,CLM200250,mobile_app,rear end accident with night clear conditions,0,1.0,urban_arterial,clear,rear_end,1
+FNOL300251,CLM200251,agent,multi point accident with rain conditions,0,0.0,residential_street,clear,multi_point,0
+FNOL300252,CLM200252,phone,front end accident with fog conditions,0,1.0,residential_street,fog,front_end,0
+FNOL300253,CLM200253,agent,front end accident with fog conditions,0,0.0,intersection,rain,rear_end,0
+FNOL300254,CLM200254,mobile_app,right side accident with clear conditions,1,1.0,residential_street,clear,front_end,0
+FNOL300255,CLM200255,phone,front end accident with rain conditions,1,0.0,parking_lot,rain,rear_end,0
+FNOL300256,CLM200256,phone,multi point accident with wind conditions,0,0.0,parking_lot,night_clear,left_side,0
+FNOL300257,CLM200257,phone,multi point accident with rain conditions,0,0.0,parking_lot,night_clear,front_end,0
+FNOL300258,CLM200258,phone,left side accident with wind conditions,1,0.0,highway,clear,front_end,0
+FNOL300259,CLM200259,agent,right side accident with wind conditions,0,,highway,night_clear,left_side,0
+FNOL300260,CLM200260,web_portal,front end accident with night clear conditions,0,0.0,urban_arterial,rain,front_end,0
+FNOL300261,CLM200261,phone,left side accident with fog conditions,0,1.0,parking_lot,clear,right_side,0
+FNOL300262,CLM200262,phone,left side accident with night clear conditions,0,0.0,highway,clear,left_side,0
+FNOL300263,CLM200263,mobile_app,front end accident with rain conditions,0,0.0,residential_street,night_clear,rear_end,0
+FNOL300264,CLM200264,agent,left side accident with wind conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300265,CLM200265,web_portal,rear end accident with night clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300266,CLM200266,phone,right side accident with night clear conditions,0,0.0,highway,fog,multi_point,0
+FNOL300267,CLM200267,phone,rear end accident with wind conditions,0,0.0,residential_street,wind,right_side,1
+FNOL300268,CLM200268,phone,multi point accident with fog conditions,0,0.0,residential_street,clear,multi_point,0
+FNOL300269,CLM200269,mobile_app,multi point accident with fog conditions,0,0.0,intersection,wind,right_side,0
+FNOL300270,CLM200270,phone,front end accident with fog conditions,0,0.0,intersection,wind,multi_point,0
+FNOL300271,CLM200271,phone,rear end accident with rain conditions,1,0.0,highway,night_clear,rear_end,1
+FNOL300272,CLM200272,agent,left side accident with rain conditions,1,0.0,intersection,wind,left_side,0
+FNOL300273,CLM200273,phone,rear end accident with wind conditions,1,1.0,urban_arterial,clear,front_end,0
+FNOL300274,CLM200274,agent,left side accident with wind conditions,0,0.0,highway,night_clear,right_side,1
+FNOL300275,CLM200275,web_portal,right side accident with wind conditions,0,0.0,urban_arterial,rain,multi_point,1
+FNOL300276,CLM200276,phone,front end accident with wind conditions,0,1.0,highway,rain,right_side,1
+FNOL300277,CLM200277,phone,multi point accident with fog conditions,1,0.0,highway,clear,right_side,0
+FNOL300278,CLM200278,mobile_app,rear end accident with fog conditions,1,0.0,highway,rain,multi_point,0
+FNOL300279,CLM200279,web_portal,right side accident with wind conditions,1,1.0,urban_arterial,clear,rear_end,0
+FNOL300280,CLM200280,mobile_app,left side accident with rain conditions,0,0.0,urban_arterial,rain,front_end,0
+FNOL300281,CLM200281,agent,front end accident with clear conditions,0,0.0,intersection,clear,right_side,0
+FNOL300282,CLM200282,web_portal,left side accident with wind conditions,0,0.0,parking_lot,fog,left_side,1
+FNOL300283,CLM200283,mobile_app,front end accident with rain conditions,0,0.0,parking_lot,clear,front_end,0
+FNOL300284,CLM200284,phone,right side accident with wind conditions,1,0.0,intersection,rain,front_end,0
+FNOL300285,CLM200285,phone,multi point accident with night clear conditions,1,1.0,parking_lot,rain,rear_end,1
+FNOL300286,CLM200286,mobile_app,left side accident with rain conditions,1,0.0,urban_arterial,clear,multi_point,0
+FNOL300287,CLM200287,phone,right side accident with clear conditions,1,0.0,intersection,night_clear,right_side,0
+FNOL300288,CLM200288,agent,right side accident with clear conditions,0,0.0,highway,rain,left_side,0
+FNOL300289,CLM200289,phone,multi point accident with fog conditions,0,0.0,residential_street,wind,rear_end,0
+FNOL300290,CLM200290,phone,left side accident with night clear conditions,1,0.0,intersection,rain,rear_end,1
+FNOL300291,CLM200291,web_portal,left side accident with night clear conditions,0,0.0,urban_arterial,wind,front_end,0
+FNOL300292,CLM200292,mobile_app,rear end accident with night clear conditions,0,0.0,highway,night_clear,rear_end,1
+FNOL300293,CLM200293,phone,right side accident with clear conditions,0,0.0,intersection,rain,rear_end,0
+FNOL300294,CLM200294,mobile_app,multi point accident with clear conditions,0,0.0,residential_street,night_clear,rear_end,0
+FNOL300295,CLM200295,web_portal,multi point accident with night clear conditions,1,0.0,highway,clear,rear_end,1
+FNOL300296,CLM200296,mobile_app,right side accident with wind conditions,1,1.0,intersection,night_clear,rear_end,0
+FNOL300297,CLM200297,phone,front end accident with night clear conditions,1,0.0,intersection,rain,right_side,0
+FNOL300298,CLM200298,web_portal,right side accident with night clear conditions,0,0.0,intersection,clear,left_side,0
+FNOL300299,CLM200299,web_portal,front end accident with wind conditions,0,1.0,urban_arterial,rain,front_end,1
+FNOL300300,CLM200300,phone,multi point accident with fog conditions,0,0.0,intersection,clear,multi_point,1
+FNOL300301,CLM200301,phone,rear end accident with wind conditions,0,0.0,parking_lot,night_clear,front_end,0
+FNOL300302,CLM200302,web_portal,multi point accident with wind conditions,0,0.0,parking_lot,night_clear,right_side,0
+FNOL300303,CLM200303,phone,right side accident with night clear conditions,1,1.0,urban_arterial,fog,rear_end,1
+FNOL300304,CLM200304,agent,multi point accident with night clear conditions,1,0.0,residential_street,clear,rear_end,1
+FNOL300305,CLM200305,phone,front end accident with clear conditions,0,0.0,urban_arterial,night_clear,rear_end,1
+FNOL300306,CLM200306,web_portal,left side accident with night clear conditions,1,0.0,intersection,night_clear,multi_point,0
+FNOL300307,CLM200307,agent,front end accident with wind conditions,1,0.0,residential_street,fog,multi_point,1
+FNOL300308,CLM200308,phone,right side accident with wind conditions,1,0.0,residential_street,clear,front_end,0
+FNOL300309,CLM200309,mobile_app,right side accident with rain conditions,1,0.0,highway,rain,right_side,1
+FNOL300310,CLM200310,phone,right side accident with fog conditions,1,1.0,highway,clear,rear_end,0
+FNOL300311,CLM200311,web_portal,right side accident with night clear conditions,0,1.0,residential_street,night_clear,left_side,0
+FNOL300312,CLM200312,agent,rear end accident with clear conditions,0,0.0,intersection,clear,rear_end,1
+FNOL300313,CLM200313,agent,left side accident with fog conditions,0,0.0,residential_street,clear,left_side,1
+FNOL300314,CLM200314,phone,front end accident with night clear conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL300315,CLM200315,agent,multi point accident with wind conditions,0,1.0,residential_street,clear,left_side,0
+FNOL300316,CLM200316,agent,left side accident with clear conditions,0,1.0,highway,rain,front_end,0
+FNOL300317,CLM200317,phone,rear end accident with clear conditions,0,0.0,residential_street,night_clear,left_side,0
+FNOL300318,CLM200318,agent,front end accident with fog conditions,1,0.0,residential_street,night_clear,rear_end,0
+FNOL300319,CLM200319,phone,left side accident with rain conditions,0,0.0,urban_arterial,clear,front_end,0
+FNOL300320,CLM200320,agent,front end accident with night clear conditions,0,1.0,urban_arterial,clear,rear_end,0
+FNOL300321,CLM200321,agent,right side accident with night clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300322,CLM200322,mobile_app,right side accident with night clear conditions,0,0.0,residential_street,night_clear,front_end,0
+FNOL300323,CLM200323,phone,right side accident with rain conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300324,CLM200324,agent,left side accident with rain conditions,0,0.0,residential_street,clear,front_end,0
+FNOL300325,CLM200325,phone,right side accident with fog conditions,0,1.0,residential_street,clear,rear_end,0
+FNOL300326,CLM200326,mobile_app,front end accident with clear conditions,0,0.0,urban_arterial,night_clear,front_end,0
+FNOL300327,CLM200327,mobile_app,right side accident with wind conditions,0,0.0,urban_arterial,rain,front_end,0
+FNOL300328,CLM200328,phone,rear end accident with night clear conditions,0,0.0,highway,clear,rear_end,0
+FNOL300329,CLM200329,phone,right side accident with clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300330,CLM200330,phone,front end accident with clear conditions,0,0.0,urban_arterial,clear,left_side,0
+FNOL300331,CLM200331,agent,multi point accident with rain conditions,0,0.0,intersection,clear,right_side,0
+FNOL300332,CLM200332,agent,front end accident with night clear conditions,0,0.0,residential_street,fog,rear_end,0
+FNOL300333,CLM200333,agent,multi point accident with rain conditions,0,0.0,parking_lot,fog,rear_end,0
+FNOL300334,CLM200334,mobile_app,left side accident with wind conditions,0,0.0,intersection,clear,right_side,0
+FNOL300335,CLM200335,web_portal,multi point accident with night clear conditions,0,1.0,highway,rain,rear_end,0
+FNOL300336,CLM200336,mobile_app,front end accident with fog conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL300337,CLM200337,web_portal,left side accident with clear conditions,0,0.0,highway,clear,rear_end,0
+FNOL300338,CLM200338,agent,right side accident with night clear conditions,1,1.0,urban_arterial,clear,multi_point,1
+FNOL300339,CLM200339,phone,right side accident with rain conditions,0,0.0,intersection,clear,front_end,0
+FNOL300340,CLM200340,agent,front end accident with fog conditions,1,0.0,urban_arterial,night_clear,rear_end,1
+FNOL300341,CLM200341,agent,left side accident with night clear conditions,0,1.0,intersection,clear,front_end,0
+FNOL300342,CLM200342,phone,front end accident with night clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300343,CLM200343,agent,right side accident with night clear conditions,1,0.0,parking_lot,wind,rear_end,0
+FNOL300344,CLM200344,agent,left side accident with rain conditions,0,0.0,residential_street,clear,multi_point,0
+FNOL300345,CLM200345,phone,rear end accident with wind conditions,1,0.0,intersection,clear,front_end,0
+FNOL300346,CLM200346,phone,front end accident with rain conditions,0,0.0,urban_arterial,clear,left_side,0
+FNOL300347,CLM200347,web_portal,front end accident with fog conditions,0,0.0,parking_lot,clear,multi_point,0
+FNOL300348,CLM200348,agent,left side accident with rain conditions,1,0.0,urban_arterial,clear,rear_end,1
+FNOL300349,CLM200349,phone,multi point accident with night clear conditions,1,0.0,urban_arterial,fog,rear_end,1
+FNOL300350,CLM200350,mobile_app,multi point accident with wind conditions,1,0.0,highway,rain,rear_end,0
+FNOL300351,CLM200351,mobile_app,right side accident with night clear conditions,0,1.0,highway,clear,right_side,1
+FNOL300352,CLM200352,mobile_app,multi point accident with rain conditions,0,1.0,urban_arterial,wind,front_end,0
+FNOL300353,CLM200353,phone,rear end accident with night clear conditions,0,0.0,parking_lot,clear,front_end,0
+FNOL300354,CLM200354,phone,multi point accident with rain conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL300355,CLM200355,agent,left side accident with wind conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300356,CLM200356,phone,front end accident with clear conditions,0,0.0,parking_lot,clear,front_end,0
+FNOL300357,CLM200357,web_portal,front end accident with wind conditions,0,0.0,intersection,rain,rear_end,1
+FNOL300358,CLM200358,web_portal,front end accident with wind conditions,1,0.0,intersection,clear,right_side,0
+FNOL300359,CLM200359,agent,multi point accident with wind conditions,1,0.0,intersection,clear,multi_point,1
+FNOL300360,CLM200360,agent,left side accident with rain conditions,0,0.0,urban_arterial,rain,multi_point,0
+FNOL300361,CLM200361,agent,rear end accident with night clear conditions,0,0.0,urban_arterial,night_clear,front_end,0
+FNOL300362,CLM200362,mobile_app,multi point accident with clear conditions,0,0.0,highway,rain,rear_end,0
+FNOL300363,CLM200363,phone,right side accident with wind conditions,0,0.0,highway,clear,front_end,0
+FNOL300364,CLM200364,phone,front end accident with fog conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300365,CLM200365,mobile_app,right side accident with clear conditions,1,1.0,residential_street,rain,multi_point,0
+FNOL300366,CLM200366,phone,front end accident with night clear conditions,0,1.0,intersection,clear,left_side,0
+FNOL300367,CLM200367,phone,left side accident with wind conditions,0,1.0,highway,clear,rear_end,1
+FNOL300368,CLM200368,phone,rear end accident with clear conditions,0,1.0,intersection,rain,right_side,1
+FNOL300369,CLM200369,phone,front end accident with rain conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300370,CLM200370,mobile_app,front end accident with wind conditions,1,0.0,residential_street,night_clear,right_side,0
+FNOL300371,CLM200371,agent,right side accident with clear conditions,1,0.0,intersection,clear,front_end,0
+FNOL300372,CLM200372,phone,right side accident with fog conditions,0,1.0,residential_street,wind,right_side,0
+FNOL300373,CLM200373,phone,right side accident with clear conditions,0,0.0,parking_lot,clear,multi_point,1
+FNOL300374,CLM200374,mobile_app,left side accident with clear conditions,1,0.0,highway,night_clear,rear_end,1
+FNOL300375,CLM200375,phone,front end accident with rain conditions,0,0.0,intersection,rain,left_side,0
+FNOL300376,CLM200376,agent,left side accident with wind conditions,0,0.0,parking_lot,fog,rear_end,0
+FNOL300377,CLM200377,phone,front end accident with fog conditions,0,0.0,intersection,clear,right_side,0
+FNOL300378,CLM200378,phone,left side accident with rain conditions,0,0.0,residential_street,fog,front_end,1
+FNOL300379,CLM200379,web_portal,right side accident with rain conditions,0,0.0,parking_lot,rain,multi_point,1
+FNOL300380,CLM200380,mobile_app,multi point accident with night clear conditions,0,0.0,residential_street,rain,multi_point,1
+FNOL300381,CLM200381,mobile_app,front end accident with wind conditions,0,1.0,residential_street,rain,rear_end,0
+FNOL300382,CLM200382,phone,rear end accident with night clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300383,CLM200383,phone,front end accident with night clear conditions,0,1.0,urban_arterial,rain,left_side,0
+FNOL300384,CLM200384,phone,multi point accident with wind conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300385,CLM200385,web_portal,left side accident with clear conditions,0,0.0,highway,clear,rear_end,0
+FNOL300386,CLM200386,phone,left side accident with night clear conditions,0,0.0,urban_arterial,rain,front_end,0
+FNOL300387,CLM200387,phone,left side accident with clear conditions,0,0.0,parking_lot,clear,front_end,0
+FNOL300388,CLM200388,mobile_app,front end accident with wind conditions,0,0.0,residential_street,clear,front_end,0
+FNOL300389,CLM200389,mobile_app,multi point accident with rain conditions,1,0.0,parking_lot,clear,rear_end,0
+FNOL300390,CLM200390,phone,right side accident with wind conditions,0,0.0,intersection,rain,rear_end,0
+FNOL300391,CLM200391,agent,multi point accident with night clear conditions,1,0.0,residential_street,night_clear,rear_end,1
+FNOL300392,CLM200392,web_portal,rear end accident with wind conditions,1,1.0,intersection,rain,right_side,1
+FNOL300393,CLM200393,agent,right side accident with rain conditions,0,0.0,residential_street,wind,front_end,0
+FNOL300394,CLM200394,phone,rear end accident with wind conditions,0,0.0,highway,rain,front_end,0
+FNOL300395,CLM200395,mobile_app,rear end accident with clear conditions,0,0.0,parking_lot,clear,multi_point,0
+FNOL300396,CLM200396,phone,multi point accident with night clear conditions,0,0.0,urban_arterial,clear,multi_point,0
+FNOL300397,CLM200397,phone,front end accident with clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300398,CLM200398,phone,front end accident with night clear conditions,0,0.0,residential_street,night_clear,right_side,0
+FNOL300399,CLM200399,phone,rear end accident with clear conditions,1,0.0,urban_arterial,clear,rear_end,1
+FNOL300400,CLM200400,agent,rear end accident with rain conditions,0,0.0,parking_lot,clear,right_side,1
+FNOL300401,CLM200401,agent,right side accident with wind conditions,0,0.0,urban_arterial,fog,rear_end,0
+FNOL300402,CLM200402,phone,left side accident with night clear conditions,0,0.0,urban_arterial,wind,rear_end,1
+FNOL300403,CLM200403,phone,left side accident with wind conditions,0,0.0,urban_arterial,rain,multi_point,0
+FNOL300404,CLM200404,phone,rear end accident with rain conditions,0,0.0,intersection,clear,left_side,0
+FNOL300405,CLM200405,web_portal,multi point accident with rain conditions,0,1.0,urban_arterial,night_clear,rear_end,0
+FNOL300406,CLM200406,phone,rear end accident with wind conditions,0,0.0,residential_street,clear,multi_point,0
+FNOL300407,CLM200407,web_portal,left side accident with fog conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL300408,CLM200408,phone,left side accident with rain conditions,0,0.0,intersection,night_clear,rear_end,0
+FNOL300409,CLM200409,web_portal,rear end accident with wind conditions,0,0.0,intersection,night_clear,front_end,0
+FNOL300410,CLM200410,agent,left side accident with fog conditions,0,0.0,intersection,night_clear,left_side,0
+FNOL300411,CLM200411,phone,left side accident with night clear conditions,1,0.0,highway,rain,left_side,0
+FNOL300412,CLM200412,agent,left side accident with clear conditions,0,1.0,residential_street,night_clear,front_end,0
+FNOL300413,CLM200413,agent,front end accident with wind conditions,0,,intersection,clear,front_end,0
+FNOL300414,CLM200414,mobile_app,multi point accident with wind conditions,0,0.0,urban_arterial,night_clear,front_end,1
+FNOL300415,CLM200415,phone,rear end accident with night clear conditions,0,1.0,urban_arterial,wind,front_end,0
+FNOL300416,CLM200416,mobile_app,right side accident with wind conditions,0,0.0,intersection,clear,rear_end,1
+FNOL300417,CLM200417,phone,front end accident with night clear conditions,1,0.0,urban_arterial,clear,rear_end,0
+FNOL300418,CLM200418,agent,front end accident with rain conditions,0,0.0,highway,wind,right_side,1
+FNOL300419,CLM200419,mobile_app,front end accident with rain conditions,0,0.0,urban_arterial,rain,right_side,0
+FNOL300420,CLM200420,agent,right side accident with night clear conditions,0,0.0,urban_arterial,night_clear,front_end,1
+FNOL300421,CLM200421,mobile_app,rear end accident with clear conditions,0,0.0,intersection,night_clear,rear_end,0
+FNOL300422,CLM200422,phone,front end accident with night clear conditions,0,,urban_arterial,wind,left_side,1
+FNOL300423,CLM200423,mobile_app,left side accident with wind conditions,0,1.0,highway,clear,rear_end,1
+FNOL300424,CLM200424,agent,rear end accident with fog conditions,0,0.0,highway,fog,left_side,1
+FNOL300425,CLM200425,phone,multi point accident with clear conditions,0,1.0,residential_street,wind,front_end,0
+FNOL300426,CLM200426,phone,front end accident with wind conditions,0,0.0,parking_lot,clear,front_end,1
+FNOL300427,CLM200427,agent,multi point accident with fog conditions,0,1.0,parking_lot,clear,rear_end,0
+FNOL300428,CLM200428,phone,right side accident with clear conditions,1,0.0,residential_street,wind,multi_point,1
+FNOL300429,CLM200429,agent,front end accident with wind conditions,0,0.0,residential_street,clear,rear_end,1
+FNOL300430,CLM200430,phone,right side accident with night clear conditions,1,0.0,urban_arterial,clear,rear_end,0
+FNOL300431,CLM200431,agent,left side accident with fog conditions,0,0.0,highway,clear,front_end,0
+FNOL300432,CLM200432,mobile_app,left side accident with clear conditions,0,1.0,intersection,clear,right_side,1
+FNOL300433,CLM200433,phone,multi point accident with rain conditions,0,0.0,intersection,rain,right_side,1
+FNOL300434,CLM200434,phone,right side accident with fog conditions,0,0.0,urban_arterial,clear,front_end,1
+FNOL300435,CLM200435,phone,multi point accident with fog conditions,1,1.0,intersection,rain,front_end,1
+FNOL300436,CLM200436,web_portal,multi point accident with fog conditions,0,0.0,intersection,night_clear,front_end,0
+FNOL300437,CLM200437,phone,multi point accident with rain conditions,1,0.0,intersection,rain,rear_end,1
+FNOL300438,CLM200438,phone,left side accident with wind conditions,0,1.0,intersection,rain,rear_end,0
+FNOL300439,CLM200439,mobile_app,left side accident with clear conditions,1,0.0,intersection,clear,front_end,1
+FNOL300440,CLM200440,agent,multi point accident with night clear conditions,1,0.0,urban_arterial,rain,left_side,0
+FNOL300441,CLM200441,phone,multi point accident with fog conditions,0,0.0,highway,rain,left_side,0
+FNOL300442,CLM200442,web_portal,front end accident with night clear conditions,0,0.0,intersection,night_clear,multi_point,0
+FNOL300443,CLM200443,agent,right side accident with clear conditions,0,0.0,residential_street,night_clear,front_end,0
+FNOL300444,CLM200444,mobile_app,left side accident with wind conditions,0,0.0,parking_lot,rain,left_side,1
+FNOL300445,CLM200445,agent,rear end accident with night clear conditions,0,0.0,highway,clear,multi_point,1
+FNOL300446,CLM200446,mobile_app,rear end accident with night clear conditions,0,0.0,urban_arterial,fog,rear_end,0
+FNOL300447,CLM200447,web_portal,rear end accident with fog conditions,0,0.0,intersection,night_clear,front_end,0
+FNOL300448,CLM200448,agent,front end accident with rain conditions,1,0.0,highway,night_clear,right_side,1
+FNOL300449,CLM200449,phone,multi point accident with night clear conditions,0,0.0,residential_street,night_clear,left_side,0
+FNOL300450,CLM200450,mobile_app,front end accident with wind conditions,0,0.0,highway,clear,multi_point,0
+FNOL300451,CLM200451,mobile_app,multi point accident with night clear conditions,0,,intersection,night_clear,left_side,0
+FNOL300452,CLM200452,phone,left side accident with rain conditions,0,0.0,highway,clear,multi_point,0
+FNOL300453,CLM200453,mobile_app,left side accident with fog conditions,1,1.0,intersection,clear,rear_end,0
+FNOL300454,CLM200454,web_portal,front end accident with rain conditions,0,0.0,highway,fog,right_side,1
+FNOL300455,CLM200455,phone,right side accident with fog conditions,1,0.0,intersection,clear,rear_end,0
+FNOL300456,CLM200456,phone,left side accident with night clear conditions,0,0.0,highway,clear,rear_end,1
+FNOL300457,CLM200457,phone,front end accident with night clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300458,CLM200458,phone,right side accident with fog conditions,0,0.0,residential_street,clear,left_side,0
+FNOL300459,CLM200459,mobile_app,right side accident with clear conditions,0,0.0,urban_arterial,clear,rear_end,1
+FNOL300460,CLM200460,phone,right side accident with fog conditions,0,0.0,highway,rain,rear_end,0
+FNOL300461,CLM200461,phone,left side accident with fog conditions,0,0.0,parking_lot,clear,left_side,0
+FNOL300462,CLM200462,phone,right side accident with wind conditions,0,0.0,parking_lot,rain,front_end,0
+FNOL300463,CLM200463,agent,front end accident with rain conditions,0,1.0,highway,rain,front_end,0
+FNOL300464,CLM200464,agent,multi point accident with fog conditions,0,1.0,urban_arterial,clear,front_end,0
+FNOL300465,CLM200465,phone,left side accident with wind conditions,1,0.0,intersection,night_clear,right_side,0
+FNOL300466,CLM200466,phone,front end accident with fog conditions,1,0.0,parking_lot,clear,right_side,1
+FNOL300467,CLM200467,phone,left side accident with night clear conditions,0,0.0,parking_lot,night_clear,front_end,1
+FNOL300468,CLM200468,phone,multi point accident with rain conditions,0,0.0,residential_street,night_clear,right_side,0
+FNOL300469,CLM200469,web_portal,multi point accident with wind conditions,0,0.0,highway,night_clear,right_side,1
+FNOL300470,CLM200470,mobile_app,front end accident with fog conditions,1,0.0,highway,rain,front_end,0
+FNOL300471,CLM200471,mobile_app,multi point accident with fog conditions,0,0.0,urban_arterial,wind,rear_end,0
+FNOL300472,CLM200472,agent,front end accident with fog conditions,0,0.0,intersection,clear,rear_end,1
+FNOL300473,CLM200473,agent,rear end accident with fog conditions,0,1.0,highway,night_clear,left_side,0
+FNOL300474,CLM200474,phone,front end accident with fog conditions,1,0.0,residential_street,clear,multi_point,1
+FNOL300475,CLM200475,mobile_app,front end accident with fog conditions,1,0.0,highway,rain,rear_end,1
+FNOL300476,CLM200476,mobile_app,front end accident with night clear conditions,0,0.0,highway,rain,front_end,1
+FNOL300477,CLM200477,web_portal,front end accident with wind conditions,0,1.0,parking_lot,wind,rear_end,0
+FNOL300478,CLM200478,phone,front end accident with fog conditions,0,1.0,parking_lot,wind,front_end,0
+FNOL300479,CLM200479,phone,rear end accident with night clear conditions,0,0.0,intersection,clear,right_side,1
+FNOL300480,CLM200480,phone,front end accident with rain conditions,0,0.0,urban_arterial,clear,right_side,0
+FNOL300481,CLM200481,phone,left side accident with rain conditions,0,0.0,intersection,wind,multi_point,0
+FNOL300482,CLM200482,phone,left side accident with clear conditions,0,0.0,intersection,night_clear,front_end,0
+FNOL300483,CLM200483,web_portal,left side accident with rain conditions,0,0.0,intersection,clear,left_side,0
+FNOL300484,CLM200484,phone,front end accident with clear conditions,0,0.0,urban_arterial,wind,multi_point,0
+FNOL300485,CLM200485,agent,rear end accident with clear conditions,1,0.0,residential_street,rain,left_side,0
+FNOL300486,CLM200486,phone,multi point accident with wind conditions,1,0.0,intersection,clear,multi_point,0
+FNOL300487,CLM200487,agent,multi point accident with wind conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300488,CLM200488,phone,left side accident with wind conditions,1,1.0,urban_arterial,fog,rear_end,0
+FNOL300489,CLM200489,phone,right side accident with night clear conditions,0,1.0,intersection,clear,rear_end,0
+FNOL300490,CLM200490,phone,rear end accident with night clear conditions,0,0.0,intersection,night_clear,right_side,0
+FNOL300491,CLM200491,phone,rear end accident with rain conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300492,CLM200492,phone,left side accident with clear conditions,0,0.0,highway,rain,right_side,0
+FNOL300493,CLM200493,web_portal,right side accident with fog conditions,1,1.0,parking_lot,clear,front_end,0
+FNOL300494,CLM200494,phone,right side accident with night clear conditions,0,0.0,parking_lot,fog,left_side,0
+FNOL300495,CLM200495,phone,front end accident with night clear conditions,0,0.0,highway,clear,right_side,0
+FNOL300496,CLM200496,phone,multi point accident with rain conditions,0,0.0,intersection,clear,front_end,0
+FNOL300497,CLM200497,web_portal,right side accident with clear conditions,0,0.0,highway,rain,rear_end,0
+FNOL300498,CLM200498,phone,front end accident with wind conditions,0,0.0,urban_arterial,rain,left_side,0
+FNOL300499,CLM200499,phone,left side accident with night clear conditions,0,0.0,intersection,rain,multi_point,0
+FNOL300500,CLM200500,phone,front end accident with night clear conditions,1,1.0,highway,clear,rear_end,1
+FNOL300501,CLM200501,web_portal,rear end accident with night clear conditions,0,1.0,urban_arterial,clear,rear_end,0
+FNOL300502,CLM200502,web_portal,rear end accident with rain conditions,0,0.0,intersection,clear,right_side,0
+FNOL300503,CLM200503,mobile_app,left side accident with wind conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300504,CLM200504,mobile_app,rear end accident with wind conditions,0,0.0,intersection,clear,rear_end,1
+FNOL300505,CLM200505,phone,multi point accident with rain conditions,0,0.0,highway,clear,right_side,1
+FNOL300506,CLM200506,mobile_app,multi point accident with clear conditions,0,0.0,residential_street,rain,right_side,0
+FNOL300507,CLM200507,web_portal,right side accident with wind conditions,0,0.0,urban_arterial,clear,rear_end,1
+FNOL300508,CLM200508,web_portal,right side accident with rain conditions,0,0.0,urban_arterial,rain,multi_point,0
+FNOL300509,CLM200509,phone,right side accident with rain conditions,1,1.0,highway,wind,right_side,0
+FNOL300510,CLM200510,web_portal,right side accident with clear conditions,1,0.0,residential_street,wind,rear_end,1
+FNOL300511,CLM200511,mobile_app,multi point accident with clear conditions,0,0.0,residential_street,rain,front_end,1
+FNOL300512,CLM200512,web_portal,left side accident with clear conditions,1,0.0,urban_arterial,clear,right_side,0
+FNOL300513,CLM200513,web_portal,multi point accident with clear conditions,0,1.0,intersection,rain,left_side,0
+FNOL300514,CLM200514,web_portal,front end accident with night clear conditions,0,0.0,intersection,clear,left_side,0
+FNOL300515,CLM200515,phone,multi point accident with clear conditions,0,0.0,urban_arterial,rain,front_end,0
+FNOL300516,CLM200516,phone,right side accident with rain conditions,0,0.0,intersection,night_clear,rear_end,0
+FNOL300517,CLM200517,phone,rear end accident with night clear conditions,0,0.0,residential_street,rain,left_side,0
+FNOL300518,CLM200518,mobile_app,rear end accident with clear conditions,1,0.0,residential_street,night_clear,rear_end,1
+FNOL300519,CLM200519,mobile_app,rear end accident with wind conditions,0,0.0,residential_street,clear,right_side,0
+FNOL300520,CLM200520,web_portal,front end accident with rain conditions,1,0.0,parking_lot,clear,rear_end,1
+FNOL300521,CLM200521,mobile_app,right side accident with rain conditions,1,0.0,urban_arterial,clear,rear_end,0
+FNOL300522,CLM200522,mobile_app,multi point accident with fog conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL300523,CLM200523,web_portal,multi point accident with fog conditions,1,0.0,highway,clear,right_side,0
+FNOL300524,CLM200524,phone,rear end accident with wind conditions,0,1.0,urban_arterial,night_clear,front_end,0
+FNOL300525,CLM200525,phone,left side accident with wind conditions,0,0.0,residential_street,rain,front_end,0
+FNOL300526,CLM200526,phone,multi point accident with clear conditions,0,0.0,highway,night_clear,front_end,0
+FNOL300527,CLM200527,web_portal,multi point accident with clear conditions,0,0.0,parking_lot,night_clear,left_side,0
+FNOL300528,CLM200528,phone,rear end accident with wind conditions,0,0.0,parking_lot,wind,multi_point,0
+FNOL300529,CLM200529,phone,right side accident with rain conditions,1,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300530,CLM200530,phone,rear end accident with clear conditions,1,1.0,intersection,clear,rear_end,1
+FNOL300531,CLM200531,mobile_app,rear end accident with fog conditions,1,0.0,highway,night_clear,right_side,0
+FNOL300532,CLM200532,agent,multi point accident with rain conditions,0,0.0,parking_lot,fog,front_end,1
+FNOL300533,CLM200533,agent,multi point accident with night clear conditions,0,0.0,highway,rain,left_side,0
+FNOL300534,CLM200534,phone,rear end accident with night clear conditions,0,0.0,urban_arterial,rain,rear_end,1
+FNOL300535,CLM200535,mobile_app,multi point accident with clear conditions,1,0.0,intersection,night_clear,right_side,0
+FNOL300536,CLM200536,phone,multi point accident with wind conditions,0,0.0,intersection,night_clear,multi_point,0
+FNOL300537,CLM200537,agent,left side accident with night clear conditions,0,0.0,highway,clear,front_end,0
+FNOL300538,CLM200538,phone,rear end accident with wind conditions,1,0.0,highway,clear,rear_end,0
+FNOL300539,CLM200539,phone,right side accident with wind conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300540,CLM200540,mobile_app,left side accident with fog conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300541,CLM200541,phone,front end accident with fog conditions,1,0.0,intersection,clear,front_end,1
+FNOL300542,CLM200542,agent,multi point accident with clear conditions,0,0.0,urban_arterial,fog,front_end,0
+FNOL300543,CLM200543,phone,right side accident with clear conditions,0,0.0,urban_arterial,clear,left_side,0
+FNOL300544,CLM200544,agent,front end accident with wind conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300545,CLM200545,phone,left side accident with fog conditions,1,1.0,highway,night_clear,rear_end,1
+FNOL300546,CLM200546,phone,front end accident with clear conditions,1,1.0,intersection,rain,multi_point,1
+FNOL300547,CLM200547,web_portal,left side accident with rain conditions,0,0.0,parking_lot,clear,rear_end,1
+FNOL300548,CLM200548,mobile_app,front end accident with wind conditions,0,0.0,urban_arterial,night_clear,multi_point,0
+FNOL300549,CLM200549,agent,right side accident with clear conditions,1,0.0,urban_arterial,clear,left_side,0
+FNOL300550,CLM200550,mobile_app,left side accident with rain conditions,0,0.0,highway,rain,rear_end,0
+FNOL300551,CLM200551,mobile_app,rear end accident with night clear conditions,0,0.0,residential_street,night_clear,left_side,0
+FNOL300552,CLM200552,phone,rear end accident with fog conditions,1,0.0,residential_street,rain,multi_point,0
+FNOL300553,CLM200553,agent,rear end accident with fog conditions,0,0.0,urban_arterial,night_clear,right_side,1
+FNOL300554,CLM200554,web_portal,rear end accident with clear conditions,0,0.0,parking_lot,rain,rear_end,1
+FNOL300555,CLM200555,mobile_app,rear end accident with clear conditions,0,1.0,parking_lot,rain,rear_end,0
+FNOL300556,CLM200556,agent,right side accident with wind conditions,0,0.0,intersection,night_clear,front_end,0
+FNOL300557,CLM200557,phone,left side accident with rain conditions,0,0.0,residential_street,wind,rear_end,1
+FNOL300558,CLM200558,agent,rear end accident with rain conditions,0,0.0,highway,night_clear,rear_end,0
+FNOL300559,CLM200559,mobile_app,left side accident with clear conditions,0,0.0,urban_arterial,night_clear,multi_point,0
+FNOL300560,CLM200560,agent,front end accident with wind conditions,1,0.0,intersection,clear,left_side,0
+FNOL300561,CLM200561,web_portal,left side accident with night clear conditions,0,0.0,urban_arterial,clear,right_side,1
+FNOL300562,CLM200562,mobile_app,left side accident with rain conditions,0,0.0,highway,wind,front_end,0
+FNOL300563,CLM200563,web_portal,left side accident with rain conditions,0,1.0,residential_street,night_clear,rear_end,0
+FNOL300564,CLM200564,web_portal,front end accident with wind conditions,0,0.0,residential_street,night_clear,rear_end,0
+FNOL300565,CLM200565,phone,rear end accident with fog conditions,0,0.0,residential_street,clear,right_side,0
+FNOL300566,CLM200566,web_portal,right side accident with wind conditions,0,0.0,parking_lot,rain,front_end,0
+FNOL300567,CLM200567,mobile_app,right side accident with wind conditions,1,0.0,urban_arterial,fog,front_end,0
+FNOL300568,CLM200568,agent,multi point accident with wind conditions,0,0.0,parking_lot,rain,rear_end,0
+FNOL300569,CLM200569,agent,right side accident with clear conditions,1,0.0,intersection,rain,rear_end,0
+FNOL300570,CLM200570,phone,front end accident with fog conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300571,CLM200571,phone,right side accident with fog conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL300572,CLM200572,phone,multi point accident with night clear conditions,0,0.0,intersection,clear,multi_point,0
+FNOL300573,CLM200573,web_portal,rear end accident with wind conditions,0,0.0,highway,rain,right_side,0
+FNOL300574,CLM200574,agent,left side accident with wind conditions,1,1.0,residential_street,clear,right_side,0
+FNOL300575,CLM200575,web_portal,right side accident with night clear conditions,1,0.0,highway,fog,right_side,0
+FNOL300576,CLM200576,agent,multi point accident with wind conditions,0,0.0,residential_street,night_clear,left_side,0
+FNOL300577,CLM200577,mobile_app,left side accident with wind conditions,0,0.0,parking_lot,fog,rear_end,1
+FNOL300578,CLM200578,mobile_app,multi point accident with fog conditions,1,0.0,parking_lot,night_clear,front_end,1
+FNOL300579,CLM200579,agent,right side accident with clear conditions,0,0.0,highway,fog,rear_end,0
+FNOL300580,CLM200580,phone,right side accident with wind conditions,0,0.0,highway,rain,right_side,0
+FNOL300581,CLM200581,phone,rear end accident with rain conditions,0,0.0,residential_street,rain,right_side,0
+FNOL300582,CLM200582,phone,left side accident with clear conditions,0,0.0,highway,rain,front_end,0
+FNOL300583,CLM200583,phone,right side accident with rain conditions,0,0.0,parking_lot,clear,front_end,0
+FNOL300584,CLM200584,mobile_app,rear end accident with rain conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL300585,CLM200585,phone,multi point accident with rain conditions,0,0.0,intersection,fog,rear_end,0
+FNOL300586,CLM200586,mobile_app,right side accident with rain conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL300587,CLM200587,phone,multi point accident with night clear conditions,0,0.0,urban_arterial,clear,multi_point,0
+FNOL300588,CLM200588,phone,right side accident with night clear conditions,0,0.0,intersection,rain,rear_end,0
+FNOL300589,CLM200589,phone,multi point accident with clear conditions,1,0.0,residential_street,night_clear,multi_point,1
+FNOL300590,CLM200590,agent,multi point accident with fog conditions,0,0.0,urban_arterial,clear,front_end,0
+FNOL300591,CLM200591,mobile_app,rear end accident with rain conditions,1,0.0,intersection,wind,front_end,1
+FNOL300592,CLM200592,agent,multi point accident with night clear conditions,1,0.0,parking_lot,rain,rear_end,0
+FNOL300593,CLM200593,mobile_app,left side accident with fog conditions,1,0.0,residential_street,clear,rear_end,0
+FNOL300594,CLM200594,phone,left side accident with wind conditions,0,0.0,parking_lot,clear,front_end,0
+FNOL300595,CLM200595,web_portal,front end accident with clear conditions,0,0.0,residential_street,clear,left_side,0
+FNOL300596,CLM200596,phone,left side accident with wind conditions,0,0.0,highway,rain,front_end,0
+FNOL300597,CLM200597,phone,left side accident with fog conditions,1,0.0,highway,clear,rear_end,1
+FNOL300598,CLM200598,mobile_app,left side accident with night clear conditions,0,1.0,residential_street,rain,rear_end,1
+FNOL300599,CLM200599,web_portal,right side accident with clear conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL300600,CLM200600,agent,right side accident with rain conditions,0,0.0,parking_lot,clear,right_side,0
+FNOL300601,CLM200601,phone,right side accident with night clear conditions,0,1.0,residential_street,clear,left_side,0
+FNOL300602,CLM200602,web_portal,left side accident with rain conditions,0,0.0,urban_arterial,night_clear,rear_end,1
+FNOL300603,CLM200603,mobile_app,multi point accident with rain conditions,0,1.0,parking_lot,clear,right_side,0
+FNOL300604,CLM200604,web_portal,multi point accident with rain conditions,1,0.0,urban_arterial,rain,rear_end,0
+FNOL300605,CLM200605,agent,multi point accident with fog conditions,0,0.0,intersection,fog,right_side,0
+FNOL300606,CLM200606,mobile_app,right side accident with clear conditions,0,0.0,parking_lot,clear,front_end,0
+FNOL300607,CLM200607,phone,front end accident with wind conditions,1,0.0,residential_street,clear,right_side,0
+FNOL300608,CLM200608,agent,multi point accident with night clear conditions,0,1.0,residential_street,rain,rear_end,0
+FNOL300609,CLM200609,mobile_app,multi point accident with rain conditions,0,0.0,urban_arterial,night_clear,right_side,0
+FNOL300610,CLM200610,agent,front end accident with clear conditions,1,0.0,parking_lot,night_clear,right_side,1
+FNOL300611,CLM200611,mobile_app,multi point accident with rain conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL300612,CLM200612,agent,left side accident with wind conditions,1,1.0,residential_street,clear,rear_end,0
+FNOL300613,CLM200613,phone,right side accident with fog conditions,0,1.0,urban_arterial,clear,right_side,0
+FNOL300614,CLM200614,web_portal,front end accident with wind conditions,0,0.0,residential_street,clear,front_end,0
+FNOL300615,CLM200615,phone,front end accident with night clear conditions,0,0.0,urban_arterial,night_clear,left_side,0
+FNOL300616,CLM200616,web_portal,left side accident with night clear conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL300617,CLM200617,agent,rear end accident with fog conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL300618,CLM200618,web_portal,rear end accident with wind conditions,0,1.0,parking_lot,clear,right_side,1
+FNOL300619,CLM200619,web_portal,left side accident with fog conditions,1,1.0,urban_arterial,night_clear,rear_end,0
+FNOL300620,CLM200620,phone,multi point accident with clear conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL300621,CLM200621,phone,rear end accident with fog conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300622,CLM200622,mobile_app,front end accident with night clear conditions,1,0.0,residential_street,clear,right_side,0
+FNOL300623,CLM200623,phone,front end accident with fog conditions,0,1.0,residential_street,clear,rear_end,0
+FNOL300624,CLM200624,phone,front end accident with fog conditions,0,1.0,urban_arterial,clear,front_end,0
+FNOL300625,CLM200625,web_portal,rear end accident with wind conditions,1,0.0,urban_arterial,night_clear,left_side,1
+FNOL300626,CLM200626,web_portal,rear end accident with night clear conditions,1,0.0,urban_arterial,fog,front_end,0
+FNOL300627,CLM200627,phone,left side accident with clear conditions,0,1.0,intersection,rain,rear_end,1
+FNOL300628,CLM200628,phone,left side accident with clear conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL300629,CLM200629,phone,right side accident with fog conditions,0,0.0,urban_arterial,rain,rear_end,1
+FNOL300630,CLM200630,web_portal,multi point accident with clear conditions,0,0.0,urban_arterial,wind,multi_point,1
+FNOL300631,CLM200631,agent,rear end accident with night clear conditions,0,0.0,intersection,clear,right_side,0
+FNOL300632,CLM200632,phone,front end accident with wind conditions,0,1.0,highway,fog,right_side,1
+FNOL300633,CLM200633,phone,multi point accident with wind conditions,1,1.0,intersection,rain,right_side,0
+FNOL300634,CLM200634,agent,front end accident with fog conditions,0,1.0,highway,clear,rear_end,0
+FNOL300635,CLM200635,phone,rear end accident with fog conditions,1,0.0,intersection,clear,right_side,0
+FNOL300636,CLM200636,web_portal,front end accident with clear conditions,0,1.0,intersection,night_clear,front_end,0
+FNOL300637,CLM200637,phone,front end accident with wind conditions,0,0.0,residential_street,night_clear,right_side,0
+FNOL300638,CLM200638,agent,front end accident with fog conditions,0,0.0,intersection,clear,multi_point,0
+FNOL300639,CLM200639,web_portal,left side accident with rain conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300640,CLM200640,phone,front end accident with fog conditions,0,0.0,urban_arterial,fog,left_side,0
+FNOL300641,CLM200641,phone,left side accident with fog conditions,0,1.0,residential_street,wind,rear_end,1
+FNOL300642,CLM200642,phone,multi point accident with night clear conditions,1,0.0,parking_lot,rain,multi_point,0
+FNOL300643,CLM200643,phone,front end accident with clear conditions,1,1.0,intersection,night_clear,rear_end,1
+FNOL300644,CLM200644,phone,left side accident with clear conditions,0,0.0,parking_lot,night_clear,rear_end,1
+FNOL300645,CLM200645,mobile_app,right side accident with clear conditions,0,0.0,parking_lot,clear,multi_point,0
+FNOL300646,CLM200646,agent,rear end accident with wind conditions,1,0.0,highway,clear,rear_end,1
+FNOL300647,CLM200647,phone,front end accident with clear conditions,0,0.0,intersection,clear,front_end,0
+FNOL300648,CLM200648,mobile_app,right side accident with wind conditions,0,0.0,urban_arterial,night_clear,left_side,0
+FNOL300649,CLM200649,agent,front end accident with wind conditions,1,0.0,parking_lot,rain,left_side,0
+FNOL300650,CLM200650,phone,left side accident with wind conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300651,CLM200651,mobile_app,left side accident with fog conditions,1,0.0,parking_lot,fog,rear_end,1
+FNOL300652,CLM200652,web_portal,multi point accident with fog conditions,0,1.0,intersection,wind,front_end,0
+FNOL300653,CLM200653,web_portal,rear end accident with night clear conditions,1,0.0,urban_arterial,clear,front_end,1
+FNOL300654,CLM200654,mobile_app,right side accident with night clear conditions,0,0.0,intersection,clear,multi_point,1
+FNOL300655,CLM200655,agent,multi point accident with clear conditions,0,1.0,intersection,night_clear,right_side,0
+FNOL300656,CLM200656,phone,multi point accident with rain conditions,1,0.0,urban_arterial,rain,left_side,0
+FNOL300657,CLM200657,phone,left side accident with rain conditions,0,0.0,highway,night_clear,rear_end,0
+FNOL300658,CLM200658,phone,front end accident with fog conditions,0,0.0,urban_arterial,clear,multi_point,0
+FNOL300659,CLM200659,phone,rear end accident with wind conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL300660,CLM200660,phone,front end accident with rain conditions,0,0.0,intersection,rain,multi_point,0
+FNOL300661,CLM200661,phone,right side accident with clear conditions,0,0.0,highway,clear,multi_point,0
+FNOL300662,CLM200662,web_portal,rear end accident with rain conditions,0,0.0,parking_lot,rain,multi_point,0
+FNOL300663,CLM200663,phone,right side accident with fog conditions,1,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300664,CLM200664,agent,multi point accident with wind conditions,0,0.0,urban_arterial,rain,rear_end,1
+FNOL300665,CLM200665,phone,left side accident with clear conditions,1,1.0,residential_street,rain,left_side,1
+FNOL300666,CLM200666,web_portal,multi point accident with wind conditions,0,0.0,highway,fog,front_end,0
+FNOL300667,CLM200667,phone,multi point accident with clear conditions,0,1.0,intersection,wind,front_end,1
+FNOL300668,CLM200668,phone,right side accident with rain conditions,0,0.0,urban_arterial,night_clear,left_side,0
+FNOL300669,CLM200669,web_portal,left side accident with fog conditions,0,0.0,parking_lot,rain,left_side,0
+FNOL300670,CLM200670,phone,left side accident with clear conditions,1,0.0,parking_lot,rain,rear_end,0
+FNOL300671,CLM200671,web_portal,front end accident with fog conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL300672,CLM200672,web_portal,rear end accident with clear conditions,0,0.0,parking_lot,night_clear,left_side,0
+FNOL300673,CLM200673,web_portal,right side accident with rain conditions,0,0.0,highway,night_clear,rear_end,0
+FNOL300674,CLM200674,mobile_app,left side accident with fog conditions,0,0.0,parking_lot,rain,left_side,0
+FNOL300675,CLM200675,agent,multi point accident with rain conditions,0,0.0,residential_street,clear,right_side,0
+FNOL300676,CLM200676,phone,right side accident with fog conditions,1,0.0,intersection,night_clear,right_side,0
+FNOL300677,CLM200677,agent,front end accident with rain conditions,1,1.0,urban_arterial,clear,right_side,0
+FNOL300678,CLM200678,phone,multi point accident with fog conditions,1,0.0,urban_arterial,clear,front_end,0
+FNOL300679,CLM200679,mobile_app,rear end accident with clear conditions,0,0.0,highway,rain,right_side,0
+FNOL300680,CLM200680,agent,rear end accident with clear conditions,0,0.0,highway,fog,front_end,0
+FNOL300681,CLM200681,phone,right side accident with night clear conditions,0,0.0,urban_arterial,clear,right_side,0
+FNOL300682,CLM200682,agent,right side accident with rain conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL300683,CLM200683,mobile_app,right side accident with wind conditions,0,0.0,urban_arterial,wind,left_side,0
+FNOL300684,CLM200684,agent,right side accident with clear conditions,0,1.0,urban_arterial,fog,rear_end,0
+FNOL300685,CLM200685,phone,front end accident with clear conditions,1,0.0,urban_arterial,clear,rear_end,1
+FNOL300686,CLM200686,mobile_app,rear end accident with wind conditions,1,0.0,intersection,clear,front_end,1
+FNOL300687,CLM200687,phone,multi point accident with rain conditions,0,0.0,intersection,fog,rear_end,0
+FNOL300688,CLM200688,phone,front end accident with rain conditions,1,1.0,highway,clear,rear_end,1
+FNOL300689,CLM200689,web_portal,rear end accident with clear conditions,1,1.0,urban_arterial,clear,right_side,0
+FNOL300690,CLM200690,web_portal,rear end accident with rain conditions,0,0.0,highway,night_clear,left_side,0
+FNOL300691,CLM200691,web_portal,multi point accident with rain conditions,0,0.0,intersection,rain,right_side,0
+FNOL300692,CLM200692,web_portal,multi point accident with wind conditions,0,1.0,intersection,rain,right_side,0
+FNOL300693,CLM200693,agent,multi point accident with night clear conditions,0,0.0,urban_arterial,rain,front_end,1
+FNOL300694,CLM200694,mobile_app,multi point accident with clear conditions,0,0.0,urban_arterial,fog,multi_point,0
+FNOL300695,CLM200695,phone,rear end accident with clear conditions,0,1.0,highway,rain,rear_end,0
+FNOL300696,CLM200696,web_portal,rear end accident with wind conditions,0,0.0,highway,fog,rear_end,0
+FNOL300697,CLM200697,web_portal,left side accident with night clear conditions,0,1.0,urban_arterial,fog,rear_end,0
+FNOL300698,CLM200698,phone,left side accident with rain conditions,0,0.0,parking_lot,clear,right_side,0
+FNOL300699,CLM200699,phone,rear end accident with night clear conditions,1,0.0,urban_arterial,rain,rear_end,0
+FNOL300700,CLM200700,phone,multi point accident with clear conditions,0,0.0,urban_arterial,clear,front_end,0
+FNOL300701,CLM200701,web_portal,right side accident with wind conditions,0,0.0,parking_lot,wind,left_side,0
+FNOL300702,CLM200702,phone,right side accident with night clear conditions,1,1.0,parking_lot,wind,right_side,0
+FNOL300703,CLM200703,web_portal,left side accident with fog conditions,0,0.0,urban_arterial,night_clear,right_side,0
+FNOL300704,CLM200704,web_portal,multi point accident with fog conditions,0,1.0,parking_lot,rain,rear_end,1
+FNOL300705,CLM200705,agent,right side accident with rain conditions,1,0.0,highway,rain,rear_end,0
+FNOL300706,CLM200706,phone,left side accident with wind conditions,1,1.0,highway,fog,left_side,0
+FNOL300707,CLM200707,agent,left side accident with night clear conditions,1,0.0,urban_arterial,clear,right_side,0
+FNOL300708,CLM200708,web_portal,multi point accident with night clear conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300709,CLM200709,phone,front end accident with night clear conditions,0,0.0,urban_arterial,clear,right_side,0
+FNOL300710,CLM200710,phone,multi point accident with clear conditions,0,0.0,parking_lot,rain,rear_end,0
+FNOL300711,CLM200711,phone,rear end accident with fog conditions,0,0.0,intersection,night_clear,rear_end,0
+FNOL300712,CLM200712,phone,rear end accident with fog conditions,1,,urban_arterial,wind,rear_end,1
+FNOL300713,CLM200713,phone,rear end accident with clear conditions,0,1.0,highway,rain,right_side,0
+FNOL300714,CLM200714,phone,front end accident with night clear conditions,0,0.0,highway,clear,right_side,0
+FNOL300715,CLM200715,agent,left side accident with clear conditions,1,0.0,highway,rain,front_end,1
+FNOL300716,CLM200716,phone,multi point accident with fog conditions,0,0.0,intersection,rain,right_side,1
+FNOL300717,CLM200717,phone,multi point accident with clear conditions,0,1.0,urban_arterial,rain,front_end,0
+FNOL300718,CLM200718,mobile_app,rear end accident with wind conditions,0,0.0,residential_street,wind,rear_end,0
+FNOL300719,CLM200719,agent,right side accident with clear conditions,0,0.0,residential_street,clear,right_side,0
+FNOL300720,CLM200720,agent,front end accident with fog conditions,1,0.0,intersection,fog,rear_end,0
+FNOL300721,CLM200721,agent,front end accident with fog conditions,0,1.0,highway,clear,multi_point,0
+FNOL300722,CLM200722,agent,multi point accident with clear conditions,0,0.0,urban_arterial,wind,right_side,0
+FNOL300723,CLM200723,phone,multi point accident with night clear conditions,0,0.0,urban_arterial,clear,right_side,0
+FNOL300724,CLM200724,mobile_app,right side accident with clear conditions,0,0.0,parking_lot,rain,left_side,1
+FNOL300725,CLM200725,phone,rear end accident with wind conditions,0,1.0,residential_street,clear,right_side,0
+FNOL300726,CLM200726,agent,rear end accident with clear conditions,1,0.0,residential_street,clear,rear_end,0
+FNOL300727,CLM200727,phone,multi point accident with wind conditions,0,1.0,urban_arterial,rain,left_side,0
+FNOL300728,CLM200728,mobile_app,front end accident with rain conditions,0,1.0,urban_arterial,rain,rear_end,0
+FNOL300729,CLM200729,phone,front end accident with wind conditions,0,0.0,residential_street,rain,left_side,0
+FNOL300730,CLM200730,agent,left side accident with fog conditions,0,0.0,urban_arterial,night_clear,left_side,0
+FNOL300731,CLM200731,phone,rear end accident with wind conditions,0,1.0,intersection,clear,rear_end,0
+FNOL300732,CLM200732,agent,right side accident with night clear conditions,1,0.0,intersection,clear,rear_end,0
+FNOL300733,CLM200733,agent,multi point accident with fog conditions,0,0.0,urban_arterial,rain,left_side,1
+FNOL300734,CLM200734,phone,front end accident with wind conditions,0,0.0,residential_street,night_clear,multi_point,0
+FNOL300735,CLM200735,web_portal,left side accident with night clear conditions,1,0.0,urban_arterial,clear,left_side,0
+FNOL300736,CLM200736,phone,multi point accident with rain conditions,0,0.0,intersection,clear,front_end,0
+FNOL300737,CLM200737,phone,multi point accident with rain conditions,0,0.0,residential_street,night_clear,multi_point,1
+FNOL300738,CLM200738,phone,rear end accident with wind conditions,0,0.0,highway,rain,right_side,0
+FNOL300739,CLM200739,mobile_app,right side accident with night clear conditions,0,0.0,parking_lot,night_clear,right_side,0
+FNOL300740,CLM200740,phone,rear end accident with clear conditions,0,0.0,urban_arterial,clear,front_end,1
+FNOL300741,CLM200741,web_portal,rear end accident with clear conditions,1,,highway,clear,front_end,0
+FNOL300742,CLM200742,web_portal,right side accident with clear conditions,1,1.0,urban_arterial,rain,rear_end,0
+FNOL300743,CLM200743,phone,rear end accident with wind conditions,1,1.0,highway,clear,right_side,0
+FNOL300744,CLM200744,phone,rear end accident with fog conditions,1,0.0,urban_arterial,rain,rear_end,0
+FNOL300745,CLM200745,phone,left side accident with fog conditions,0,0.0,intersection,clear,left_side,0
+FNOL300746,CLM200746,phone,left side accident with rain conditions,0,0.0,residential_street,rain,right_side,0
+FNOL300747,CLM200747,agent,left side accident with fog conditions,0,0.0,intersection,night_clear,left_side,0
+FNOL300748,CLM200748,phone,multi point accident with wind conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300749,CLM200749,web_portal,left side accident with fog conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300750,CLM200750,agent,front end accident with rain conditions,0,0.0,parking_lot,clear,left_side,0
+FNOL300751,CLM200751,phone,front end accident with clear conditions,1,0.0,parking_lot,night_clear,rear_end,0
+FNOL300752,CLM200752,mobile_app,multi point accident with rain conditions,0,0.0,intersection,rain,rear_end,0
+FNOL300753,CLM200753,agent,front end accident with wind conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL300754,CLM200754,mobile_app,rear end accident with clear conditions,0,0.0,parking_lot,night_clear,left_side,0
+FNOL300755,CLM200755,phone,left side accident with rain conditions,0,0.0,intersection,clear,left_side,0
+FNOL300756,CLM200756,web_portal,right side accident with rain conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL300757,CLM200757,agent,rear end accident with fog conditions,0,0.0,urban_arterial,night_clear,left_side,1
+FNOL300758,CLM200758,web_portal,right side accident with night clear conditions,0,0.0,intersection,rain,front_end,0
+FNOL300759,CLM200759,web_portal,left side accident with night clear conditions,0,0.0,intersection,wind,front_end,0
+FNOL300760,CLM200760,web_portal,right side accident with rain conditions,0,0.0,residential_street,night_clear,right_side,0
+FNOL300761,CLM200761,mobile_app,rear end accident with fog conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300762,CLM200762,phone,multi point accident with night clear conditions,0,0.0,intersection,night_clear,front_end,0
+FNOL300763,CLM200763,agent,multi point accident with night clear conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL300764,CLM200764,phone,right side accident with wind conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300765,CLM200765,agent,right side accident with clear conditions,1,0.0,residential_street,clear,left_side,0
+FNOL300766,CLM200766,phone,right side accident with rain conditions,0,0.0,highway,clear,left_side,0
+FNOL300767,CLM200767,web_portal,rear end accident with rain conditions,0,0.0,urban_arterial,fog,left_side,0
+FNOL300768,CLM200768,agent,multi point accident with wind conditions,1,0.0,intersection,night_clear,multi_point,1
+FNOL300769,CLM200769,agent,right side accident with rain conditions,1,0.0,parking_lot,wind,right_side,0
+FNOL300770,CLM200770,phone,right side accident with clear conditions,0,0.0,intersection,wind,rear_end,0
+FNOL300771,CLM200771,mobile_app,left side accident with night clear conditions,0,0.0,residential_street,night_clear,left_side,0
+FNOL300772,CLM200772,phone,rear end accident with clear conditions,1,0.0,highway,rain,left_side,1
+FNOL300773,CLM200773,phone,left side accident with wind conditions,0,0.0,residential_street,night_clear,left_side,0
+FNOL300774,CLM200774,mobile_app,left side accident with night clear conditions,0,0.0,parking_lot,clear,front_end,0
+FNOL300775,CLM200775,agent,front end accident with night clear conditions,1,0.0,residential_street,clear,multi_point,0
+FNOL300776,CLM200776,agent,multi point accident with fog conditions,0,1.0,urban_arterial,clear,front_end,1
+FNOL300777,CLM200777,mobile_app,front end accident with fog conditions,0,0.0,intersection,night_clear,right_side,0
+FNOL300778,CLM200778,web_portal,multi point accident with wind conditions,0,0.0,highway,clear,front_end,1
+FNOL300779,CLM200779,phone,multi point accident with rain conditions,0,0.0,highway,clear,right_side,1
+FNOL300780,CLM200780,phone,rear end accident with fog conditions,0,1.0,residential_street,clear,front_end,0
+FNOL300781,CLM200781,web_portal,rear end accident with rain conditions,0,1.0,intersection,clear,rear_end,0
+FNOL300782,CLM200782,agent,front end accident with rain conditions,0,0.0,highway,rain,front_end,0
+FNOL300783,CLM200783,web_portal,right side accident with fog conditions,0,0.0,urban_arterial,clear,front_end,1
+FNOL300784,CLM200784,phone,rear end accident with fog conditions,0,0.0,intersection,night_clear,rear_end,0
+FNOL300785,CLM200785,phone,front end accident with clear conditions,0,0.0,intersection,night_clear,left_side,0
+FNOL300786,CLM200786,phone,multi point accident with clear conditions,1,0.0,urban_arterial,rain,right_side,1
+FNOL300787,CLM200787,agent,left side accident with wind conditions,0,0.0,intersection,clear,right_side,0
+FNOL300788,CLM200788,phone,left side accident with fog conditions,0,1.0,intersection,night_clear,front_end,0
+FNOL300789,CLM200789,phone,left side accident with night clear conditions,0,0.0,urban_arterial,rain,front_end,0
+FNOL300790,CLM200790,mobile_app,multi point accident with clear conditions,0,1.0,parking_lot,clear,right_side,0
+FNOL300791,CLM200791,phone,rear end accident with rain conditions,1,0.0,urban_arterial,clear,multi_point,0
+FNOL300792,CLM200792,phone,left side accident with rain conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300793,CLM200793,web_portal,rear end accident with wind conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL300794,CLM200794,phone,rear end accident with fog conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300795,CLM200795,mobile_app,left side accident with fog conditions,1,1.0,intersection,night_clear,front_end,1
+FNOL300796,CLM200796,agent,multi point accident with night clear conditions,1,0.0,urban_arterial,rain,right_side,0
+FNOL300797,CLM200797,phone,left side accident with clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300798,CLM200798,phone,right side accident with night clear conditions,1,1.0,urban_arterial,clear,left_side,0
+FNOL300799,CLM200799,web_portal,multi point accident with rain conditions,0,1.0,urban_arterial,fog,rear_end,1
+FNOL300800,CLM200800,mobile_app,rear end accident with clear conditions,1,0.0,intersection,clear,rear_end,0
+FNOL300801,CLM200801,agent,right side accident with fog conditions,0,1.0,intersection,clear,left_side,0
+FNOL300802,CLM200802,phone,multi point accident with rain conditions,1,0.0,parking_lot,fog,left_side,0
+FNOL300803,CLM200803,agent,multi point accident with wind conditions,1,1.0,intersection,clear,rear_end,0
+FNOL300804,CLM200804,mobile_app,right side accident with wind conditions,1,1.0,urban_arterial,clear,rear_end,0
+FNOL300805,CLM200805,phone,multi point accident with fog conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL300806,CLM200806,mobile_app,right side accident with wind conditions,0,0.0,intersection,rain,multi_point,0
+FNOL300807,CLM200807,phone,rear end accident with clear conditions,0,0.0,intersection,clear,right_side,0
+FNOL300808,CLM200808,phone,multi point accident with rain conditions,0,0.0,highway,wind,front_end,1
+FNOL300809,CLM200809,phone,multi point accident with clear conditions,1,0.0,highway,rain,multi_point,1
+FNOL300810,CLM200810,phone,rear end accident with wind conditions,0,0.0,parking_lot,clear,left_side,1
+FNOL300811,CLM200811,mobile_app,multi point accident with wind conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300812,CLM200812,phone,right side accident with wind conditions,0,0.0,intersection,rain,front_end,0
+FNOL300813,CLM200813,phone,left side accident with rain conditions,1,1.0,highway,night_clear,multi_point,0
+FNOL300814,CLM200814,phone,multi point accident with night clear conditions,0,0.0,residential_street,clear,left_side,0
+FNOL300815,CLM200815,web_portal,right side accident with wind conditions,0,0.0,urban_arterial,rain,multi_point,1
+FNOL300816,CLM200816,agent,right side accident with fog conditions,0,1.0,parking_lot,fog,front_end,0
+FNOL300817,CLM200817,phone,front end accident with rain conditions,0,0.0,intersection,night_clear,multi_point,0
+FNOL300818,CLM200818,agent,front end accident with night clear conditions,0,0.0,residential_street,wind,right_side,0
+FNOL300819,CLM200819,web_portal,rear end accident with wind conditions,0,0.0,intersection,rain,right_side,1
+FNOL300820,CLM200820,agent,multi point accident with night clear conditions,0,1.0,highway,wind,multi_point,0
+FNOL300821,CLM200821,mobile_app,front end accident with rain conditions,0,1.0,highway,clear,rear_end,1
+FNOL300822,CLM200822,mobile_app,rear end accident with fog conditions,1,0.0,intersection,fog,left_side,0
+FNOL300823,CLM200823,agent,rear end accident with clear conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL300824,CLM200824,mobile_app,front end accident with fog conditions,0,0.0,highway,clear,right_side,0
+FNOL300825,CLM200825,agent,left side accident with fog conditions,1,0.0,parking_lot,clear,left_side,0
+FNOL300826,CLM200826,agent,multi point accident with night clear conditions,1,0.0,urban_arterial,clear,rear_end,1
+FNOL300827,CLM200827,mobile_app,right side accident with wind conditions,0,0.0,intersection,clear,front_end,0
+FNOL300828,CLM200828,mobile_app,multi point accident with night clear conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL300829,CLM200829,mobile_app,rear end accident with night clear conditions,0,1.0,highway,clear,front_end,0
+FNOL300830,CLM200830,web_portal,rear end accident with clear conditions,0,0.0,highway,fog,rear_end,0
+FNOL300831,CLM200831,web_portal,front end accident with night clear conditions,0,0.0,highway,rain,multi_point,0
+FNOL300832,CLM200832,web_portal,front end accident with clear conditions,0,1.0,parking_lot,clear,left_side,0
+FNOL300833,CLM200833,phone,rear end accident with fog conditions,0,0.0,urban_arterial,fog,multi_point,0
+FNOL300834,CLM200834,agent,multi point accident with night clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300835,CLM200835,phone,multi point accident with wind conditions,1,0.0,urban_arterial,rain,front_end,0
+FNOL300836,CLM200836,phone,left side accident with night clear conditions,0,1.0,highway,night_clear,multi_point,1
+FNOL300837,CLM200837,phone,multi point accident with fog conditions,1,0.0,parking_lot,wind,left_side,0
+FNOL300838,CLM200838,phone,rear end accident with wind conditions,0,1.0,highway,rain,rear_end,1
+FNOL300839,CLM200839,mobile_app,rear end accident with fog conditions,1,0.0,residential_street,rain,multi_point,0
+FNOL300840,CLM200840,phone,multi point accident with night clear conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL300841,CLM200841,phone,multi point accident with clear conditions,0,0.0,highway,rain,rear_end,0
+FNOL300842,CLM200842,phone,right side accident with rain conditions,0,0.0,residential_street,clear,right_side,1
+FNOL300843,CLM200843,phone,multi point accident with wind conditions,0,0.0,intersection,rain,right_side,0
+FNOL300844,CLM200844,agent,right side accident with fog conditions,0,0.0,urban_arterial,night_clear,left_side,0
+FNOL300845,CLM200845,mobile_app,multi point accident with night clear conditions,0,0.0,residential_street,wind,rear_end,0
+FNOL300846,CLM200846,phone,multi point accident with fog conditions,0,0.0,highway,rain,rear_end,0
+FNOL300847,CLM200847,mobile_app,multi point accident with clear conditions,1,0.0,intersection,fog,rear_end,0
+FNOL300848,CLM200848,mobile_app,multi point accident with wind conditions,0,0.0,urban_arterial,wind,front_end,1
+FNOL300849,CLM200849,mobile_app,left side accident with rain conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL300850,CLM200850,phone,multi point accident with fog conditions,1,0.0,highway,night_clear,left_side,0
+FNOL300851,CLM200851,web_portal,front end accident with clear conditions,0,0.0,parking_lot,rain,multi_point,0
+FNOL300852,CLM200852,phone,front end accident with night clear conditions,0,1.0,urban_arterial,wind,multi_point,0
+FNOL300853,CLM200853,phone,multi point accident with fog conditions,0,0.0,intersection,clear,right_side,0
+FNOL300854,CLM200854,agent,front end accident with night clear conditions,1,0.0,highway,rain,rear_end,1
+FNOL300855,CLM200855,phone,multi point accident with fog conditions,0,0.0,intersection,clear,front_end,1
+FNOL300856,CLM200856,phone,left side accident with night clear conditions,0,0.0,intersection,clear,multi_point,1
+FNOL300857,CLM200857,phone,front end accident with rain conditions,1,0.0,parking_lot,rain,rear_end,1
+FNOL300858,CLM200858,web_portal,left side accident with clear conditions,0,0.0,parking_lot,night_clear,rear_end,0
+FNOL300859,CLM200859,phone,left side accident with fog conditions,0,0.0,residential_street,wind,rear_end,1
+FNOL300860,CLM200860,phone,rear end accident with clear conditions,0,0.0,intersection,clear,left_side,0
+FNOL300861,CLM200861,phone,left side accident with night clear conditions,1,,urban_arterial,clear,multi_point,0
+FNOL300862,CLM200862,phone,rear end accident with night clear conditions,0,0.0,intersection,clear,front_end,0
+FNOL300863,CLM200863,mobile_app,left side accident with rain conditions,0,0.0,residential_street,clear,left_side,0
+FNOL300864,CLM200864,phone,front end accident with clear conditions,0,0.0,intersection,clear,left_side,0
+FNOL300865,CLM200865,mobile_app,right side accident with wind conditions,0,0.0,residential_street,clear,right_side,0
+FNOL300866,CLM200866,phone,multi point accident with wind conditions,0,0.0,parking_lot,clear,rear_end,1
+FNOL300867,CLM200867,agent,rear end accident with wind conditions,0,0.0,highway,clear,left_side,0
+FNOL300868,CLM200868,mobile_app,rear end accident with fog conditions,1,1.0,highway,clear,multi_point,1
+FNOL300869,CLM200869,phone,left side accident with fog conditions,0,0.0,highway,night_clear,multi_point,0
+FNOL300870,CLM200870,phone,right side accident with rain conditions,0,0.0,parking_lot,night_clear,front_end,0
+FNOL300871,CLM200871,web_portal,front end accident with rain conditions,1,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300872,CLM200872,web_portal,right side accident with wind conditions,0,0.0,intersection,clear,multi_point,0
+FNOL300873,CLM200873,phone,rear end accident with night clear conditions,1,1.0,intersection,clear,multi_point,0
+FNOL300874,CLM200874,phone,front end accident with rain conditions,0,0.0,intersection,rain,rear_end,1
+FNOL300875,CLM200875,mobile_app,left side accident with rain conditions,0,0.0,intersection,wind,rear_end,0
+FNOL300876,CLM200876,phone,right side accident with fog conditions,0,0.0,highway,fog,rear_end,0
+FNOL300877,CLM200877,phone,front end accident with clear conditions,1,0.0,intersection,night_clear,left_side,1
+FNOL300878,CLM200878,phone,multi point accident with wind conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL300879,CLM200879,web_portal,left side accident with clear conditions,0,0.0,urban_arterial,night_clear,rear_end,1
+FNOL300880,CLM200880,phone,right side accident with wind conditions,1,0.0,urban_arterial,wind,right_side,0
+FNOL300881,CLM200881,phone,rear end accident with night clear conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL300882,CLM200882,phone,multi point accident with night clear conditions,0,0.0,urban_arterial,clear,multi_point,0
+FNOL300883,CLM200883,mobile_app,left side accident with clear conditions,0,0.0,highway,rain,front_end,0
+FNOL300884,CLM200884,mobile_app,left side accident with fog conditions,0,0.0,intersection,clear,front_end,0
+FNOL300885,CLM200885,web_portal,front end accident with fog conditions,0,1.0,highway,clear,multi_point,0
+FNOL300886,CLM200886,mobile_app,right side accident with fog conditions,1,0.0,intersection,rain,rear_end,1
+FNOL300887,CLM200887,mobile_app,rear end accident with wind conditions,1,0.0,intersection,rain,rear_end,0
+FNOL300888,CLM200888,mobile_app,left side accident with night clear conditions,1,,intersection,night_clear,front_end,0
+FNOL300889,CLM200889,agent,right side accident with fog conditions,0,1.0,intersection,clear,left_side,1
+FNOL300890,CLM200890,agent,right side accident with fog conditions,0,1.0,intersection,night_clear,front_end,1
+FNOL300891,CLM200891,phone,right side accident with wind conditions,0,0.0,urban_arterial,clear,multi_point,0
+FNOL300892,CLM200892,web_portal,front end accident with fog conditions,0,0.0,residential_street,night_clear,multi_point,0
+FNOL300893,CLM200893,phone,left side accident with rain conditions,0,0.0,highway,clear,rear_end,0
+FNOL300894,CLM200894,phone,rear end accident with night clear conditions,0,0.0,highway,rain,rear_end,0
+FNOL300895,CLM200895,phone,right side accident with wind conditions,0,0.0,residential_street,night_clear,left_side,1
+FNOL300896,CLM200896,web_portal,front end accident with fog conditions,1,0.0,residential_street,clear,multi_point,0
+FNOL300897,CLM200897,agent,front end accident with clear conditions,1,0.0,intersection,night_clear,rear_end,0
+FNOL300898,CLM200898,web_portal,right side accident with rain conditions,1,0.0,highway,rain,rear_end,0
+FNOL300899,CLM200899,web_portal,rear end accident with rain conditions,0,0.0,intersection,rain,rear_end,0
+FNOL300900,CLM200900,phone,front end accident with wind conditions,1,0.0,urban_arterial,fog,multi_point,0
+FNOL300901,CLM200901,agent,front end accident with clear conditions,0,0.0,parking_lot,clear,rear_end,1
+FNOL300902,CLM200902,phone,multi point accident with rain conditions,0,1.0,highway,fog,left_side,0
+FNOL300903,CLM200903,agent,right side accident with fog conditions,0,1.0,intersection,clear,rear_end,0
+FNOL300904,CLM200904,phone,front end accident with wind conditions,0,0.0,parking_lot,fog,left_side,1
+FNOL300905,CLM200905,phone,right side accident with clear conditions,0,0.0,urban_arterial,rain,front_end,0
+FNOL300906,CLM200906,mobile_app,front end accident with wind conditions,1,1.0,intersection,clear,left_side,0
+FNOL300907,CLM200907,phone,right side accident with fog conditions,0,0.0,highway,clear,rear_end,0
+FNOL300908,CLM200908,phone,front end accident with wind conditions,1,0.0,intersection,rain,rear_end,0
+FNOL300909,CLM200909,web_portal,multi point accident with clear conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL300910,CLM200910,web_portal,multi point accident with fog conditions,0,0.0,urban_arterial,rain,right_side,0
+FNOL300911,CLM200911,phone,front end accident with fog conditions,1,0.0,highway,night_clear,right_side,0
+FNOL300912,CLM200912,mobile_app,left side accident with rain conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL300913,CLM200913,mobile_app,multi point accident with clear conditions,1,0.0,intersection,rain,rear_end,0
+FNOL300914,CLM200914,phone,rear end accident with rain conditions,0,0.0,parking_lot,night_clear,front_end,0
+FNOL300915,CLM200915,mobile_app,right side accident with fog conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL300916,CLM200916,web_portal,left side accident with clear conditions,0,0.0,highway,clear,right_side,0
+FNOL300917,CLM200917,agent,left side accident with night clear conditions,0,0.0,residential_street,night_clear,rear_end,0
+FNOL300918,CLM200918,phone,left side accident with wind conditions,0,1.0,highway,clear,left_side,0
+FNOL300919,CLM200919,web_portal,left side accident with rain conditions,0,0.0,highway,wind,left_side,0
+FNOL300920,CLM200920,mobile_app,front end accident with clear conditions,0,0.0,residential_street,clear,multi_point,1
+FNOL300921,CLM200921,web_portal,left side accident with wind conditions,0,0.0,residential_street,clear,right_side,0
+FNOL300922,CLM200922,agent,multi point accident with clear conditions,1,0.0,parking_lot,rain,rear_end,0
+FNOL300923,CLM200923,mobile_app,rear end accident with fog conditions,1,1.0,urban_arterial,clear,rear_end,1
+FNOL300924,CLM200924,phone,rear end accident with rain conditions,0,0.0,intersection,rain,front_end,0
+FNOL300925,CLM200925,agent,rear end accident with rain conditions,0,1.0,intersection,clear,rear_end,0
+FNOL300926,CLM200926,mobile_app,right side accident with wind conditions,0,0.0,intersection,night_clear,front_end,1
+FNOL300927,CLM200927,mobile_app,front end accident with rain conditions,0,1.0,intersection,rain,multi_point,0
+FNOL300928,CLM200928,mobile_app,rear end accident with rain conditions,0,0.0,residential_street,fog,rear_end,0
+FNOL300929,CLM200929,phone,front end accident with rain conditions,1,0.0,intersection,clear,left_side,0
+FNOL300930,CLM200930,mobile_app,front end accident with clear conditions,0,0.0,highway,night_clear,rear_end,0
+FNOL300931,CLM200931,mobile_app,rear end accident with wind conditions,0,0.0,highway,rain,rear_end,0
+FNOL300932,CLM200932,phone,right side accident with fog conditions,0,0.0,intersection,clear,rear_end,1
+FNOL300933,CLM200933,phone,rear end accident with rain conditions,1,1.0,intersection,rain,rear_end,0
+FNOL300934,CLM200934,web_portal,multi point accident with rain conditions,0,1.0,residential_street,clear,rear_end,0
+FNOL300935,CLM200935,mobile_app,multi point accident with night clear conditions,0,0.0,intersection,clear,multi_point,1
+FNOL300936,CLM200936,web_portal,multi point accident with fog conditions,0,1.0,parking_lot,clear,left_side,0
+FNOL300937,CLM200937,phone,front end accident with wind conditions,0,1.0,highway,rain,rear_end,0
+FNOL300938,CLM200938,mobile_app,front end accident with night clear conditions,0,1.0,intersection,clear,rear_end,0
+FNOL300939,CLM200939,phone,multi point accident with fog conditions,0,0.0,residential_street,wind,multi_point,0
+FNOL300940,CLM200940,web_portal,right side accident with rain conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300941,CLM200941,mobile_app,left side accident with night clear conditions,0,1.0,intersection,clear,rear_end,1
+FNOL300942,CLM200942,mobile_app,multi point accident with fog conditions,1,0.0,urban_arterial,clear,right_side,1
+FNOL300943,CLM200943,agent,rear end accident with rain conditions,0,0.0,intersection,rain,left_side,0
+FNOL300944,CLM200944,phone,left side accident with night clear conditions,1,0.0,urban_arterial,clear,rear_end,0
+FNOL300945,CLM200945,phone,rear end accident with wind conditions,0,0.0,intersection,clear,left_side,0
+FNOL300946,CLM200946,web_portal,right side accident with fog conditions,1,0.0,parking_lot,clear,front_end,1
+FNOL300947,CLM200947,mobile_app,front end accident with rain conditions,0,0.0,parking_lot,night_clear,left_side,0
+FNOL300948,CLM200948,web_portal,rear end accident with wind conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300949,CLM200949,agent,front end accident with fog conditions,0,0.0,residential_street,clear,multi_point,1
+FNOL300950,CLM200950,web_portal,left side accident with rain conditions,0,0.0,highway,rain,left_side,0
+FNOL300951,CLM200951,phone,front end accident with clear conditions,1,0.0,residential_street,rain,rear_end,1
+FNOL300952,CLM200952,phone,multi point accident with night clear conditions,0,0.0,parking_lot,clear,left_side,0
+FNOL300953,CLM200953,agent,multi point accident with night clear conditions,1,0.0,highway,night_clear,rear_end,0
+FNOL300954,CLM200954,phone,multi point accident with night clear conditions,0,0.0,highway,fog,multi_point,0
+FNOL300955,CLM200955,mobile_app,front end accident with rain conditions,0,1.0,residential_street,rain,rear_end,0
+FNOL300956,CLM200956,agent,front end accident with wind conditions,0,0.0,intersection,rain,rear_end,1
+FNOL300957,CLM200957,web_portal,left side accident with fog conditions,1,0.0,parking_lot,wind,right_side,1
+FNOL300958,CLM200958,phone,multi point accident with rain conditions,0,0.0,intersection,clear,rear_end,0
+FNOL300959,CLM200959,web_portal,left side accident with night clear conditions,1,0.0,residential_street,night_clear,rear_end,0
+FNOL300960,CLM200960,phone,front end accident with rain conditions,0,0.0,intersection,clear,right_side,0
+FNOL300961,CLM200961,agent,right side accident with clear conditions,0,0.0,intersection,rain,right_side,0
+FNOL300962,CLM200962,mobile_app,rear end accident with clear conditions,0,0.0,highway,clear,rear_end,0
+FNOL300963,CLM200963,mobile_app,multi point accident with night clear conditions,1,0.0,residential_street,fog,front_end,0
+FNOL300964,CLM200964,phone,right side accident with clear conditions,0,0.0,intersection,night_clear,left_side,0
+FNOL300965,CLM200965,phone,left side accident with fog conditions,0,0.0,intersection,rain,multi_point,0
+FNOL300966,CLM200966,phone,rear end accident with fog conditions,0,0.0,highway,clear,left_side,0
+FNOL300967,CLM200967,web_portal,front end accident with wind conditions,0,0.0,intersection,wind,left_side,1
+FNOL300968,CLM200968,mobile_app,left side accident with night clear conditions,0,0.0,intersection,night_clear,right_side,0
+FNOL300969,CLM200969,agent,multi point accident with fog conditions,0,0.0,highway,clear,rear_end,0
+FNOL300970,CLM200970,phone,left side accident with wind conditions,0,0.0,residential_street,clear,front_end,0
+FNOL300971,CLM200971,phone,multi point accident with night clear conditions,0,0.0,parking_lot,rain,left_side,0
+FNOL300972,CLM200972,mobile_app,left side accident with night clear conditions,0,0.0,urban_arterial,wind,front_end,0
+FNOL300973,CLM200973,web_portal,right side accident with night clear conditions,0,0.0,intersection,clear,front_end,1
+FNOL300974,CLM200974,mobile_app,rear end accident with wind conditions,1,0.0,urban_arterial,clear,rear_end,1
+FNOL300975,CLM200975,phone,right side accident with rain conditions,1,1.0,residential_street,rain,left_side,1
+FNOL300976,CLM200976,phone,front end accident with fog conditions,0,0.0,highway,wind,left_side,0
+FNOL300977,CLM200977,web_portal,left side accident with wind conditions,0,1.0,parking_lot,clear,right_side,0
+FNOL300978,CLM200978,agent,front end accident with rain conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL300979,CLM200979,agent,left side accident with night clear conditions,0,0.0,residential_street,night_clear,multi_point,0
+FNOL300980,CLM200980,web_portal,right side accident with fog conditions,0,0.0,highway,clear,rear_end,0
+FNOL300981,CLM200981,web_portal,front end accident with wind conditions,0,0.0,urban_arterial,clear,right_side,1
+FNOL300982,CLM200982,web_portal,rear end accident with fog conditions,0,0.0,intersection,clear,left_side,1
+FNOL300983,CLM200983,web_portal,right side accident with night clear conditions,0,0.0,urban_arterial,fog,front_end,1
+FNOL300984,CLM200984,phone,left side accident with wind conditions,1,0.0,urban_arterial,fog,multi_point,0
+FNOL300985,CLM200985,phone,multi point accident with wind conditions,1,0.0,urban_arterial,night_clear,front_end,0
+FNOL300986,CLM200986,agent,right side accident with wind conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL300987,CLM200987,agent,front end accident with rain conditions,0,0.0,highway,clear,front_end,0
+FNOL300988,CLM200988,web_portal,rear end accident with rain conditions,0,0.0,residential_street,rain,front_end,0
+FNOL300989,CLM200989,phone,left side accident with night clear conditions,0,0.0,parking_lot,clear,right_side,0
+FNOL300990,CLM200990,agent,right side accident with fog conditions,0,0.0,urban_arterial,fog,rear_end,0
+FNOL300991,CLM200991,phone,right side accident with wind conditions,1,1.0,urban_arterial,night_clear,rear_end,1
+FNOL300992,CLM200992,phone,front end accident with fog conditions,0,1.0,highway,rain,rear_end,1
+FNOL300993,CLM200993,mobile_app,front end accident with clear conditions,0,1.0,intersection,rain,left_side,1
+FNOL300994,CLM200994,mobile_app,rear end accident with fog conditions,1,0.0,urban_arterial,clear,front_end,1
+FNOL300995,CLM200995,phone,right side accident with clear conditions,0,0.0,parking_lot,rain,right_side,0
+FNOL300996,CLM200996,mobile_app,front end accident with clear conditions,0,0.0,intersection,fog,rear_end,1
+FNOL300997,CLM200997,web_portal,right side accident with rain conditions,1,0.0,urban_arterial,wind,left_side,0
+FNOL300998,CLM200998,phone,left side accident with rain conditions,0,0.0,highway,night_clear,multi_point,0
+FNOL300999,CLM200999,phone,rear end accident with wind conditions,0,0.0,parking_lot,night_clear,rear_end,0
+FNOL301000,CLM201000,web_portal,right side accident with rain conditions,0,1.0,intersection,rain,front_end,0
+FNOL301001,CLM201001,agent,front end accident with wind conditions,0,0.0,highway,night_clear,multi_point,0
+FNOL301002,CLM201002,agent,multi point accident with rain conditions,0,0.0,parking_lot,wind,rear_end,0
+FNOL301003,CLM201003,phone,rear end accident with night clear conditions,0,0.0,parking_lot,rain,left_side,0
+FNOL301004,CLM201004,mobile_app,front end accident with fog conditions,1,0.0,highway,clear,front_end,0
+FNOL301005,CLM201005,agent,rear end accident with clear conditions,1,1.0,parking_lot,night_clear,rear_end,0
+FNOL301006,CLM201006,phone,right side accident with clear conditions,0,1.0,residential_street,night_clear,right_side,0
+FNOL301007,CLM201007,web_portal,left side accident with clear conditions,1,0.0,intersection,rain,rear_end,0
+FNOL301008,CLM201008,phone,left side accident with fog conditions,0,0.0,residential_street,clear,multi_point,0
+FNOL301009,CLM201009,web_portal,right side accident with rain conditions,0,0.0,residential_street,clear,front_end,0
+FNOL301010,CLM201010,phone,multi point accident with clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL301011,CLM201011,phone,front end accident with wind conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL301012,CLM201012,phone,left side accident with night clear conditions,1,0.0,residential_street,clear,right_side,0
+FNOL301013,CLM201013,phone,right side accident with night clear conditions,0,0.0,urban_arterial,rain,front_end,1
+FNOL301014,CLM201014,phone,multi point accident with clear conditions,0,0.0,parking_lot,clear,rear_end,1
+FNOL301015,CLM201015,phone,rear end accident with night clear conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL301016,CLM201016,mobile_app,left side accident with fog conditions,0,0.0,intersection,wind,left_side,0
+FNOL301017,CLM201017,phone,multi point accident with rain conditions,1,0.0,intersection,night_clear,rear_end,0
+FNOL301018,CLM201018,phone,front end accident with clear conditions,1,0.0,highway,rain,multi_point,0
+FNOL301019,CLM201019,phone,front end accident with wind conditions,0,1.0,parking_lot,clear,rear_end,0
+FNOL301020,CLM201020,agent,left side accident with rain conditions,0,0.0,highway,clear,rear_end,1
+FNOL301021,CLM201021,phone,right side accident with wind conditions,0,1.0,highway,night_clear,front_end,0
+FNOL301022,CLM201022,web_portal,right side accident with fog conditions,1,0.0,urban_arterial,night_clear,rear_end,0
+FNOL301023,CLM201023,phone,rear end accident with night clear conditions,0,0.0,urban_arterial,clear,right_side,1
+FNOL301024,CLM201024,phone,front end accident with wind conditions,0,0.0,intersection,clear,multi_point,0
+FNOL301025,CLM201025,agent,multi point accident with wind conditions,0,0.0,intersection,fog,left_side,1
+FNOL301026,CLM201026,web_portal,right side accident with fog conditions,1,0.0,residential_street,wind,right_side,0
+FNOL301027,CLM201027,web_portal,left side accident with fog conditions,0,0.0,urban_arterial,fog,right_side,0
+FNOL301028,CLM201028,phone,left side accident with clear conditions,1,0.0,urban_arterial,clear,rear_end,1
+FNOL301029,CLM201029,phone,multi point accident with wind conditions,0,1.0,urban_arterial,night_clear,rear_end,0
+FNOL301030,CLM201030,phone,multi point accident with wind conditions,0,0.0,intersection,rain,left_side,0
+FNOL301031,CLM201031,phone,left side accident with rain conditions,0,1.0,residential_street,rain,multi_point,1
+FNOL301032,CLM201032,agent,front end accident with clear conditions,1,1.0,intersection,clear,right_side,1
+FNOL301033,CLM201033,phone,multi point accident with wind conditions,0,1.0,highway,clear,left_side,0
+FNOL301034,CLM201034,phone,front end accident with wind conditions,1,0.0,residential_street,clear,rear_end,0
+FNOL301035,CLM201035,phone,left side accident with wind conditions,0,1.0,parking_lot,clear,right_side,0
+FNOL301036,CLM201036,phone,multi point accident with clear conditions,1,0.0,urban_arterial,night_clear,left_side,0
+FNOL301037,CLM201037,phone,rear end accident with night clear conditions,1,0.0,parking_lot,fog,multi_point,1
+FNOL301038,CLM201038,phone,right side accident with rain conditions,0,0.0,intersection,night_clear,left_side,0
+FNOL301039,CLM201039,agent,right side accident with rain conditions,0,0.0,urban_arterial,fog,rear_end,1
+FNOL301040,CLM201040,mobile_app,front end accident with fog conditions,1,0.0,urban_arterial,clear,left_side,0
+FNOL301041,CLM201041,phone,rear end accident with night clear conditions,0,0.0,residential_street,fog,front_end,0
+FNOL301042,CLM201042,phone,multi point accident with night clear conditions,0,0.0,intersection,rain,front_end,0
+FNOL301043,CLM201043,mobile_app,right side accident with clear conditions,0,1.0,intersection,night_clear,left_side,0
+FNOL301044,CLM201044,phone,multi point accident with night clear conditions,0,0.0,urban_arterial,rain,multi_point,0
+FNOL301045,CLM201045,agent,front end accident with wind conditions,0,0.0,parking_lot,clear,right_side,0
+FNOL301046,CLM201046,mobile_app,multi point accident with night clear conditions,0,0.0,intersection,wind,rear_end,1
+FNOL301047,CLM201047,mobile_app,right side accident with night clear conditions,0,0.0,intersection,wind,rear_end,0
+FNOL301048,CLM201048,web_portal,front end accident with fog conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL301049,CLM201049,phone,left side accident with clear conditions,0,0.0,intersection,clear,left_side,0
+FNOL301050,CLM201050,phone,front end accident with clear conditions,0,0.0,intersection,rain,left_side,0
+FNOL301051,CLM201051,mobile_app,left side accident with wind conditions,1,0.0,residential_street,night_clear,front_end,1
+FNOL301052,CLM201052,phone,rear end accident with clear conditions,0,0.0,urban_arterial,clear,front_end,0
+FNOL301053,CLM201053,phone,right side accident with wind conditions,0,0.0,highway,wind,right_side,1
+FNOL301054,CLM201054,agent,left side accident with clear conditions,0,0.0,highway,clear,rear_end,0
+FNOL301055,CLM201055,agent,right side accident with night clear conditions,1,0.0,intersection,clear,left_side,0
+FNOL301056,CLM201056,phone,right side accident with rain conditions,1,0.0,parking_lot,clear,right_side,0
+FNOL301057,CLM201057,agent,right side accident with clear conditions,0,1.0,intersection,clear,rear_end,0
+FNOL301058,CLM201058,phone,right side accident with rain conditions,1,0.0,highway,clear,rear_end,1
+FNOL301059,CLM201059,agent,right side accident with night clear conditions,0,0.0,intersection,fog,left_side,0
+FNOL301060,CLM201060,phone,left side accident with fog conditions,1,0.0,intersection,clear,rear_end,0
+FNOL301061,CLM201061,mobile_app,left side accident with night clear conditions,1,1.0,urban_arterial,clear,front_end,0
+FNOL301062,CLM201062,web_portal,right side accident with rain conditions,0,0.0,urban_arterial,fog,multi_point,0
+FNOL301063,CLM201063,phone,multi point accident with wind conditions,1,,intersection,rain,rear_end,0
+FNOL301064,CLM201064,agent,left side accident with clear conditions,0,1.0,parking_lot,rain,multi_point,0
+FNOL301065,CLM201065,phone,front end accident with fog conditions,0,1.0,urban_arterial,wind,rear_end,0
+FNOL301066,CLM201066,agent,front end accident with rain conditions,1,1.0,intersection,clear,front_end,0
+FNOL301067,CLM201067,phone,rear end accident with wind conditions,0,0.0,highway,rain,rear_end,1
+FNOL301068,CLM201068,phone,right side accident with wind conditions,0,0.0,residential_street,clear,left_side,0
+FNOL301069,CLM201069,phone,right side accident with clear conditions,0,1.0,intersection,clear,multi_point,0
+FNOL301070,CLM201070,phone,front end accident with wind conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL301071,CLM201071,mobile_app,left side accident with wind conditions,1,1.0,urban_arterial,night_clear,multi_point,1
+FNOL301072,CLM201072,web_portal,front end accident with rain conditions,1,1.0,parking_lot,clear,right_side,0
+FNOL301073,CLM201073,agent,multi point accident with clear conditions,1,0.0,parking_lot,fog,multi_point,0
+FNOL301074,CLM201074,mobile_app,multi point accident with fog conditions,1,0.0,highway,wind,left_side,0
+FNOL301075,CLM201075,mobile_app,multi point accident with rain conditions,0,0.0,residential_street,clear,left_side,0
+FNOL301076,CLM201076,phone,multi point accident with wind conditions,1,0.0,residential_street,clear,multi_point,0
+FNOL301077,CLM201077,web_portal,multi point accident with clear conditions,0,0.0,intersection,clear,right_side,0
+FNOL301078,CLM201078,agent,left side accident with rain conditions,0,0.0,parking_lot,clear,right_side,0
+FNOL301079,CLM201079,phone,left side accident with wind conditions,0,1.0,highway,night_clear,rear_end,1
+FNOL301080,CLM201080,phone,front end accident with night clear conditions,0,1.0,highway,clear,rear_end,1
+FNOL301081,CLM201081,phone,right side accident with fog conditions,0,0.0,highway,rain,left_side,0
+FNOL301082,CLM201082,phone,front end accident with clear conditions,0,1.0,urban_arterial,clear,rear_end,0
+FNOL301083,CLM201083,mobile_app,front end accident with wind conditions,1,0.0,urban_arterial,fog,front_end,1
+FNOL301084,CLM201084,phone,multi point accident with clear conditions,0,0.0,intersection,clear,right_side,0
+FNOL301085,CLM201085,agent,rear end accident with clear conditions,1,1.0,intersection,clear,left_side,0
+FNOL301086,CLM201086,phone,rear end accident with wind conditions,0,1.0,highway,clear,multi_point,1
+FNOL301087,CLM201087,phone,right side accident with rain conditions,0,0.0,intersection,night_clear,rear_end,0
+FNOL301088,CLM201088,phone,right side accident with clear conditions,0,0.0,residential_street,rain,rear_end,1
+FNOL301089,CLM201089,phone,right side accident with fog conditions,1,0.0,parking_lot,clear,rear_end,1
+FNOL301090,CLM201090,web_portal,left side accident with rain conditions,0,0.0,intersection,wind,multi_point,0
+FNOL301091,CLM201091,agent,rear end accident with wind conditions,0,0.0,highway,wind,front_end,0
+FNOL301092,CLM201092,phone,front end accident with night clear conditions,1,0.0,parking_lot,rain,multi_point,0
+FNOL301093,CLM201093,phone,multi point accident with clear conditions,1,0.0,highway,night_clear,rear_end,0
+FNOL301094,CLM201094,web_portal,right side accident with wind conditions,1,0.0,intersection,clear,rear_end,1
+FNOL301095,CLM201095,web_portal,multi point accident with wind conditions,0,0.0,highway,night_clear,right_side,1
+FNOL301096,CLM201096,web_portal,rear end accident with night clear conditions,0,0.0,parking_lot,night_clear,left_side,1
+FNOL301097,CLM201097,mobile_app,front end accident with rain conditions,0,0.0,urban_arterial,rain,front_end,1
+FNOL301098,CLM201098,mobile_app,right side accident with clear conditions,0,0.0,highway,rain,front_end,0
+FNOL301099,CLM201099,phone,rear end accident with night clear conditions,0,0.0,highway,clear,front_end,1
+FNOL301100,CLM201100,phone,left side accident with clear conditions,0,0.0,parking_lot,clear,right_side,0
+FNOL301101,CLM201101,agent,multi point accident with fog conditions,1,0.0,highway,rain,rear_end,0
+FNOL301102,CLM201102,phone,rear end accident with wind conditions,0,0.0,highway,night_clear,rear_end,0
+FNOL301103,CLM201103,phone,rear end accident with clear conditions,1,0.0,urban_arterial,clear,rear_end,0
+FNOL301104,CLM201104,phone,right side accident with rain conditions,0,1.0,highway,rain,front_end,0
+FNOL301105,CLM201105,phone,front end accident with clear conditions,0,0.0,highway,clear,right_side,0
+FNOL301106,CLM201106,agent,rear end accident with night clear conditions,0,0.0,residential_street,clear,left_side,0
+FNOL301107,CLM201107,phone,left side accident with rain conditions,0,0.0,highway,clear,multi_point,0
+FNOL301108,CLM201108,mobile_app,right side accident with wind conditions,0,0.0,intersection,night_clear,left_side,0
+FNOL301109,CLM201109,agent,multi point accident with rain conditions,1,0.0,residential_street,clear,front_end,0
+FNOL301110,CLM201110,phone,rear end accident with wind conditions,0,0.0,urban_arterial,clear,left_side,0
+FNOL301111,CLM201111,phone,right side accident with wind conditions,0,0.0,intersection,clear,multi_point,0
+FNOL301112,CLM201112,phone,right side accident with clear conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL301113,CLM201113,phone,right side accident with wind conditions,1,0.0,intersection,rain,front_end,1
+FNOL301114,CLM201114,phone,front end accident with wind conditions,0,1.0,highway,clear,front_end,0
+FNOL301115,CLM201115,mobile_app,multi point accident with clear conditions,0,0.0,urban_arterial,clear,multi_point,0
+FNOL301116,CLM201116,phone,rear end accident with rain conditions,0,,intersection,clear,rear_end,0
+FNOL301117,CLM201117,web_portal,right side accident with night clear conditions,1,0.0,residential_street,clear,rear_end,0
+FNOL301118,CLM201118,agent,rear end accident with fog conditions,1,1.0,intersection,night_clear,left_side,0
+FNOL301119,CLM201119,phone,right side accident with clear conditions,0,0.0,highway,wind,left_side,0
+FNOL301120,CLM201120,phone,left side accident with wind conditions,1,0.0,residential_street,clear,rear_end,0
+FNOL301121,CLM201121,phone,rear end accident with wind conditions,0,0.0,highway,rain,front_end,0
+FNOL301122,CLM201122,phone,rear end accident with fog conditions,0,0.0,highway,clear,left_side,0
+FNOL301123,CLM201123,phone,left side accident with clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL301124,CLM201124,mobile_app,front end accident with clear conditions,0,0.0,urban_arterial,rain,front_end,0
+FNOL301125,CLM201125,phone,left side accident with rain conditions,1,0.0,residential_street,fog,rear_end,0
+FNOL301126,CLM201126,phone,left side accident with fog conditions,1,0.0,highway,clear,right_side,0
+FNOL301127,CLM201127,phone,rear end accident with wind conditions,1,0.0,residential_street,clear,front_end,0
+FNOL301128,CLM201128,web_portal,left side accident with wind conditions,0,1.0,urban_arterial,clear,left_side,1
+FNOL301129,CLM201129,phone,left side accident with rain conditions,1,1.0,highway,clear,front_end,1
+FNOL301130,CLM201130,web_portal,front end accident with wind conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL301131,CLM201131,mobile_app,front end accident with clear conditions,0,1.0,parking_lot,wind,left_side,0
+FNOL301132,CLM201132,phone,rear end accident with clear conditions,1,1.0,intersection,clear,front_end,0
+FNOL301133,CLM201133,web_portal,rear end accident with wind conditions,1,0.0,highway,fog,rear_end,0
+FNOL301134,CLM201134,phone,right side accident with night clear conditions,1,0.0,residential_street,night_clear,multi_point,0
+FNOL301135,CLM201135,web_portal,left side accident with wind conditions,1,0.0,highway,clear,multi_point,0
+FNOL301136,CLM201136,phone,multi point accident with fog conditions,0,0.0,residential_street,rain,right_side,0
+FNOL301137,CLM201137,mobile_app,front end accident with night clear conditions,1,0.0,highway,clear,left_side,0
+FNOL301138,CLM201138,mobile_app,left side accident with rain conditions,1,0.0,urban_arterial,rain,left_side,0
+FNOL301139,CLM201139,mobile_app,rear end accident with wind conditions,0,0.0,residential_street,night_clear,rear_end,0
+FNOL301140,CLM201140,web_portal,multi point accident with wind conditions,0,0.0,urban_arterial,night_clear,rear_end,1
+FNOL301141,CLM201141,phone,right side accident with clear conditions,0,1.0,urban_arterial,rain,left_side,0
+FNOL301142,CLM201142,mobile_app,rear end accident with night clear conditions,0,0.0,intersection,wind,right_side,0
+FNOL301143,CLM201143,phone,multi point accident with wind conditions,0,0.0,intersection,rain,front_end,0
+FNOL301144,CLM201144,phone,multi point accident with rain conditions,1,0.0,residential_street,wind,multi_point,0
+FNOL301145,CLM201145,phone,right side accident with night clear conditions,1,0.0,urban_arterial,night_clear,front_end,0
+FNOL301146,CLM201146,mobile_app,multi point accident with rain conditions,1,1.0,highway,fog,front_end,0
+FNOL301147,CLM201147,mobile_app,rear end accident with clear conditions,0,0.0,highway,clear,front_end,1
+FNOL301148,CLM201148,agent,front end accident with wind conditions,0,0.0,parking_lot,clear,left_side,0
+FNOL301149,CLM201149,mobile_app,right side accident with clear conditions,0,0.0,intersection,wind,rear_end,0
+FNOL301150,CLM201150,web_portal,left side accident with fog conditions,0,1.0,highway,clear,rear_end,1
+FNOL301151,CLM201151,agent,right side accident with wind conditions,0,0.0,highway,rain,right_side,0
+FNOL301152,CLM201152,phone,multi point accident with clear conditions,1,1.0,urban_arterial,rain,left_side,1
+FNOL301153,CLM201153,web_portal,front end accident with wind conditions,1,0.0,parking_lot,night_clear,rear_end,1
+FNOL301154,CLM201154,phone,multi point accident with fog conditions,1,1.0,highway,night_clear,left_side,1
+FNOL301155,CLM201155,phone,rear end accident with rain conditions,0,0.0,parking_lot,clear,multi_point,0
+FNOL301156,CLM201156,agent,left side accident with clear conditions,0,1.0,parking_lot,fog,front_end,0
+FNOL301157,CLM201157,phone,left side accident with wind conditions,0,0.0,urban_arterial,wind,right_side,0
+FNOL301158,CLM201158,agent,multi point accident with clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL301159,CLM201159,agent,left side accident with clear conditions,1,0.0,intersection,rain,front_end,0
+FNOL301160,CLM201160,agent,multi point accident with rain conditions,0,0.0,residential_street,rain,rear_end,1
+FNOL301161,CLM201161,mobile_app,rear end accident with fog conditions,0,0.0,urban_arterial,clear,multi_point,0
+FNOL301162,CLM201162,mobile_app,multi point accident with night clear conditions,1,0.0,urban_arterial,clear,rear_end,0
+FNOL301163,CLM201163,phone,rear end accident with wind conditions,0,1.0,urban_arterial,clear,multi_point,1
+FNOL301164,CLM201164,phone,left side accident with wind conditions,0,0.0,residential_street,wind,front_end,0
+FNOL301165,CLM201165,agent,left side accident with clear conditions,1,0.0,highway,clear,front_end,0
+FNOL301166,CLM201166,phone,rear end accident with wind conditions,0,0.0,intersection,rain,front_end,0
+FNOL301167,CLM201167,mobile_app,left side accident with rain conditions,1,0.0,highway,rain,rear_end,0
+FNOL301168,CLM201168,agent,multi point accident with fog conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL301169,CLM201169,phone,left side accident with wind conditions,0,0.0,intersection,rain,front_end,0
+FNOL301170,CLM201170,agent,right side accident with clear conditions,0,0.0,residential_street,clear,right_side,0
+FNOL301171,CLM201171,phone,multi point accident with rain conditions,0,0.0,highway,clear,left_side,1
+FNOL301172,CLM201172,phone,front end accident with rain conditions,0,0.0,intersection,clear,multi_point,0
+FNOL301173,CLM201173,mobile_app,rear end accident with night clear conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL301174,CLM201174,mobile_app,right side accident with night clear conditions,0,0.0,residential_street,rain,right_side,0
+FNOL301175,CLM201175,agent,right side accident with night clear conditions,0,0.0,highway,clear,rear_end,1
+FNOL301176,CLM201176,phone,rear end accident with fog conditions,0,1.0,parking_lot,clear,front_end,0
+FNOL301177,CLM201177,phone,front end accident with wind conditions,0,0.0,parking_lot,clear,rear_end,1
+FNOL301178,CLM201178,agent,front end accident with wind conditions,1,1.0,parking_lot,clear,multi_point,0
+FNOL301179,CLM201179,mobile_app,right side accident with wind conditions,0,0.0,highway,clear,front_end,0
+FNOL301180,CLM201180,mobile_app,multi point accident with wind conditions,0,0.0,intersection,clear,front_end,0
+FNOL301181,CLM201181,phone,right side accident with night clear conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL301182,CLM201182,agent,front end accident with rain conditions,0,0.0,intersection,night_clear,front_end,0
+FNOL301183,CLM201183,agent,right side accident with wind conditions,0,0.0,urban_arterial,clear,rear_end,1
+FNOL301184,CLM201184,mobile_app,front end accident with wind conditions,0,0.0,residential_street,wind,left_side,0
+FNOL301185,CLM201185,phone,right side accident with wind conditions,0,0.0,intersection,clear,left_side,0
+FNOL301186,CLM201186,agent,multi point accident with night clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL301187,CLM201187,agent,right side accident with clear conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL301188,CLM201188,mobile_app,right side accident with night clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL301189,CLM201189,web_portal,right side accident with night clear conditions,0,0.0,urban_arterial,rain,front_end,0
+FNOL301190,CLM201190,phone,left side accident with night clear conditions,0,0.0,highway,clear,rear_end,1
+FNOL301191,CLM201191,phone,rear end accident with rain conditions,0,0.0,urban_arterial,night_clear,rear_end,0
+FNOL301192,CLM201192,web_portal,multi point accident with fog conditions,0,0.0,highway,rain,rear_end,0
+FNOL301193,CLM201193,web_portal,front end accident with clear conditions,1,0.0,urban_arterial,wind,rear_end,0
+FNOL301194,CLM201194,mobile_app,multi point accident with clear conditions,0,1.0,residential_street,clear,left_side,0
+FNOL301195,CLM201195,agent,multi point accident with fog conditions,0,1.0,parking_lot,clear,left_side,0
+FNOL301196,CLM201196,mobile_app,right side accident with night clear conditions,0,0.0,highway,fog,rear_end,0
+FNOL301197,CLM201197,agent,left side accident with rain conditions,0,0.0,residential_street,rain,front_end,1
+FNOL301198,CLM201198,phone,front end accident with wind conditions,0,1.0,residential_street,rain,left_side,0
+FNOL301199,CLM201199,agent,rear end accident with clear conditions,1,0.0,intersection,rain,rear_end,0
+FNOL301200,CLM201200,phone,multi point accident with clear conditions,0,0.0,intersection,fog,multi_point,1
+FNOL301201,CLM201201,phone,multi point accident with wind conditions,0,1.0,intersection,rain,left_side,1
+FNOL301202,CLM201202,mobile_app,right side accident with rain conditions,1,1.0,intersection,clear,left_side,0
+FNOL301203,CLM201203,phone,multi point accident with clear conditions,0,1.0,parking_lot,night_clear,front_end,0
+FNOL301204,CLM201204,phone,front end accident with night clear conditions,0,0.0,urban_arterial,wind,front_end,0
+FNOL301205,CLM201205,web_portal,left side accident with night clear conditions,1,0.0,intersection,clear,rear_end,1
+FNOL301206,CLM201206,phone,rear end accident with clear conditions,0,0.0,parking_lot,clear,rear_end,1
+FNOL301207,CLM201207,agent,left side accident with night clear conditions,0,0.0,highway,fog,right_side,0
+FNOL301208,CLM201208,phone,multi point accident with clear conditions,1,0.0,highway,rain,multi_point,0
+FNOL301209,CLM201209,phone,front end accident with wind conditions,0,0.0,residential_street,night_clear,multi_point,0
+FNOL301210,CLM201210,phone,left side accident with wind conditions,1,1.0,highway,fog,front_end,0
+FNOL301211,CLM201211,mobile_app,left side accident with rain conditions,0,0.0,intersection,clear,multi_point,0
+FNOL301212,CLM201212,phone,left side accident with clear conditions,0,0.0,urban_arterial,clear,left_side,1
+FNOL301213,CLM201213,phone,multi point accident with fog conditions,0,0.0,urban_arterial,rain,front_end,0
+FNOL301214,CLM201214,phone,left side accident with night clear conditions,1,1.0,urban_arterial,rain,multi_point,0
+FNOL301215,CLM201215,phone,front end accident with clear conditions,0,1.0,residential_street,night_clear,multi_point,1
+FNOL301216,CLM201216,mobile_app,front end accident with night clear conditions,0,0.0,parking_lot,fog,front_end,1
+FNOL301217,CLM201217,mobile_app,front end accident with wind conditions,0,0.0,residential_street,night_clear,right_side,1
+FNOL301218,CLM201218,phone,front end accident with night clear conditions,0,0.0,urban_arterial,wind,right_side,1
+FNOL301219,CLM201219,phone,multi point accident with rain conditions,0,0.0,intersection,fog,left_side,0
+FNOL301220,CLM201220,agent,left side accident with wind conditions,1,0.0,highway,rain,front_end,0
+FNOL301221,CLM201221,phone,front end accident with fog conditions,0,1.0,urban_arterial,rain,rear_end,0
+FNOL301222,CLM201222,agent,rear end accident with wind conditions,0,0.0,urban_arterial,rain,multi_point,0
+FNOL301223,CLM201223,phone,multi point accident with clear conditions,0,0.0,highway,night_clear,rear_end,0
+FNOL301224,CLM201224,agent,rear end accident with fog conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL301225,CLM201225,phone,front end accident with night clear conditions,0,0.0,residential_street,night_clear,front_end,1
+FNOL301226,CLM201226,mobile_app,right side accident with night clear conditions,0,0.0,urban_arterial,rain,front_end,0
+FNOL301227,CLM201227,phone,rear end accident with rain conditions,1,0.0,intersection,rain,rear_end,1
+FNOL301228,CLM201228,agent,front end accident with clear conditions,0,1.0,highway,clear,rear_end,0
+FNOL301229,CLM201229,phone,multi point accident with fog conditions,0,0.0,highway,clear,multi_point,0
+FNOL301230,CLM201230,web_portal,rear end accident with rain conditions,0,0.0,parking_lot,rain,front_end,0
+FNOL301231,CLM201231,phone,front end accident with rain conditions,0,0.0,residential_street,clear,multi_point,1
+FNOL301232,CLM201232,mobile_app,rear end accident with clear conditions,1,0.0,intersection,clear,right_side,0
+FNOL301233,CLM201233,web_portal,right side accident with fog conditions,0,1.0,highway,clear,front_end,0
+FNOL301234,CLM201234,mobile_app,rear end accident with clear conditions,0,1.0,urban_arterial,clear,front_end,0
+FNOL301235,CLM201235,web_portal,rear end accident with night clear conditions,1,0.0,intersection,night_clear,rear_end,0
+FNOL301236,CLM201236,web_portal,left side accident with clear conditions,0,0.0,residential_street,rain,multi_point,0
+FNOL301237,CLM201237,mobile_app,right side accident with clear conditions,0,0.0,parking_lot,clear,left_side,0
+FNOL301238,CLM201238,phone,multi point accident with fog conditions,0,1.0,urban_arterial,night_clear,right_side,0
+FNOL301239,CLM201239,phone,front end accident with clear conditions,0,0.0,highway,clear,multi_point,0
+FNOL301240,CLM201240,web_portal,left side accident with fog conditions,0,0.0,intersection,night_clear,rear_end,0
+FNOL301241,CLM201241,phone,multi point accident with clear conditions,0,0.0,intersection,night_clear,multi_point,0
+FNOL301242,CLM201242,web_portal,right side accident with night clear conditions,1,0.0,intersection,fog,right_side,0
+FNOL301243,CLM201243,phone,multi point accident with fog conditions,1,0.0,intersection,rain,front_end,0
+FNOL301244,CLM201244,agent,rear end accident with rain conditions,0,0.0,residential_street,night_clear,multi_point,0
+FNOL301245,CLM201245,mobile_app,rear end accident with wind conditions,0,0.0,residential_street,clear,left_side,0
+FNOL301246,CLM201246,mobile_app,right side accident with fog conditions,0,0.0,urban_arterial,clear,front_end,1
+FNOL301247,CLM201247,agent,front end accident with night clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL301248,CLM201248,agent,right side accident with wind conditions,0,0.0,parking_lot,clear,right_side,0
+FNOL301249,CLM201249,phone,right side accident with night clear conditions,0,0.0,parking_lot,clear,right_side,0
+FNOL301250,CLM201250,phone,left side accident with night clear conditions,0,0.0,highway,night_clear,rear_end,0
+FNOL301251,CLM201251,mobile_app,multi point accident with clear conditions,1,0.0,highway,clear,front_end,1
+FNOL301252,CLM201252,phone,multi point accident with wind conditions,1,0.0,intersection,rain,rear_end,1
+FNOL301253,CLM201253,phone,front end accident with night clear conditions,0,0.0,intersection,clear,left_side,0
+FNOL301254,CLM201254,phone,rear end accident with clear conditions,0,0.0,highway,clear,left_side,0
+FNOL301255,CLM201255,phone,multi point accident with night clear conditions,0,0.0,urban_arterial,night_clear,right_side,0
+FNOL301256,CLM201256,phone,multi point accident with wind conditions,1,0.0,intersection,night_clear,rear_end,1
+FNOL301257,CLM201257,phone,multi point accident with wind conditions,1,0.0,parking_lot,fog,rear_end,0
+FNOL301258,CLM201258,phone,rear end accident with wind conditions,1,0.0,parking_lot,fog,rear_end,0
+FNOL301259,CLM201259,mobile_app,right side accident with rain conditions,1,0.0,intersection,night_clear,multi_point,0
+FNOL301260,CLM201260,phone,multi point accident with night clear conditions,1,0.0,parking_lot,clear,front_end,0
+FNOL301261,CLM201261,phone,front end accident with wind conditions,0,0.0,residential_street,rain,rear_end,1
+FNOL301262,CLM201262,agent,right side accident with fog conditions,0,1.0,parking_lot,clear,rear_end,0
+FNOL301263,CLM201263,mobile_app,left side accident with wind conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL301264,CLM201264,agent,left side accident with night clear conditions,0,0.0,highway,night_clear,right_side,1
+FNOL301265,CLM201265,agent,right side accident with rain conditions,1,0.0,highway,wind,front_end,0
+FNOL301266,CLM201266,mobile_app,left side accident with night clear conditions,0,0.0,parking_lot,rain,right_side,0
+FNOL301267,CLM201267,agent,right side accident with clear conditions,0,0.0,highway,clear,rear_end,0
+FNOL301268,CLM201268,phone,front end accident with wind conditions,0,0.0,intersection,wind,front_end,0
+FNOL301269,CLM201269,web_portal,front end accident with fog conditions,0,1.0,highway,night_clear,left_side,1
+FNOL301270,CLM201270,mobile_app,right side accident with wind conditions,0,0.0,parking_lot,night_clear,rear_end,1
+FNOL301271,CLM201271,web_portal,left side accident with fog conditions,0,0.0,urban_arterial,fog,rear_end,0
+FNOL301272,CLM201272,phone,front end accident with fog conditions,0,,residential_street,rain,rear_end,0
+FNOL301273,CLM201273,agent,multi point accident with clear conditions,0,0.0,highway,clear,right_side,0
+FNOL301274,CLM201274,phone,front end accident with rain conditions,0,0.0,parking_lot,clear,left_side,0
+FNOL301275,CLM201275,web_portal,left side accident with night clear conditions,0,0.0,urban_arterial,clear,front_end,1
+FNOL301276,CLM201276,agent,front end accident with fog conditions,0,0.0,highway,rain,left_side,1
+FNOL301277,CLM201277,agent,left side accident with clear conditions,1,0.0,intersection,night_clear,rear_end,0
+FNOL301278,CLM201278,phone,left side accident with clear conditions,0,0.0,parking_lot,night_clear,right_side,0
+FNOL301279,CLM201279,phone,front end accident with rain conditions,0,0.0,parking_lot,clear,right_side,1
+FNOL301280,CLM201280,web_portal,right side accident with wind conditions,1,1.0,parking_lot,clear,rear_end,0
+FNOL301281,CLM201281,mobile_app,rear end accident with rain conditions,1,1.0,parking_lot,clear,multi_point,0
+FNOL301282,CLM201282,phone,right side accident with fog conditions,0,0.0,highway,rain,front_end,1
+FNOL301283,CLM201283,web_portal,rear end accident with wind conditions,0,0.0,highway,night_clear,front_end,1
+FNOL301284,CLM201284,agent,front end accident with wind conditions,1,0.0,urban_arterial,wind,front_end,0
+FNOL301285,CLM201285,phone,left side accident with clear conditions,0,1.0,urban_arterial,night_clear,right_side,0
+FNOL301286,CLM201286,phone,left side accident with rain conditions,1,0.0,residential_street,rain,rear_end,1
+FNOL301287,CLM201287,web_portal,right side accident with wind conditions,0,1.0,intersection,fog,rear_end,0
+FNOL301288,CLM201288,mobile_app,multi point accident with wind conditions,1,0.0,residential_street,night_clear,multi_point,1
+FNOL301289,CLM201289,agent,right side accident with fog conditions,1,1.0,highway,fog,multi_point,0
+FNOL301290,CLM201290,web_portal,left side accident with rain conditions,1,0.0,intersection,clear,right_side,1
+FNOL301291,CLM201291,phone,rear end accident with clear conditions,1,1.0,residential_street,clear,rear_end,0
+FNOL301292,CLM201292,web_portal,multi point accident with clear conditions,0,1.0,highway,clear,left_side,1
+FNOL301293,CLM201293,agent,front end accident with clear conditions,0,0.0,urban_arterial,clear,front_end,0
+FNOL301294,CLM201294,phone,right side accident with night clear conditions,0,1.0,intersection,rain,rear_end,0
+FNOL301295,CLM201295,phone,multi point accident with fog conditions,0,0.0,residential_street,wind,rear_end,0
+FNOL301296,CLM201296,web_portal,right side accident with rain conditions,0,0.0,residential_street,clear,right_side,0
+FNOL301297,CLM201297,phone,rear end accident with fog conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL301298,CLM201298,agent,front end accident with fog conditions,1,1.0,residential_street,clear,rear_end,1
+FNOL301299,CLM201299,phone,multi point accident with clear conditions,0,0.0,highway,night_clear,rear_end,0
+FNOL301300,CLM201300,phone,right side accident with night clear conditions,1,0.0,residential_street,clear,left_side,1
+FNOL301301,CLM201301,agent,right side accident with fog conditions,1,0.0,urban_arterial,clear,right_side,0
+FNOL301302,CLM201302,phone,left side accident with fog conditions,0,1.0,highway,rain,rear_end,1
+FNOL301303,CLM201303,phone,multi point accident with fog conditions,1,0.0,residential_street,rain,right_side,0
+FNOL301304,CLM201304,phone,right side accident with night clear conditions,0,1.0,urban_arterial,clear,rear_end,1
+FNOL301305,CLM201305,agent,right side accident with night clear conditions,0,0.0,intersection,wind,rear_end,1
+FNOL301306,CLM201306,agent,multi point accident with clear conditions,1,1.0,urban_arterial,rain,rear_end,0
+FNOL301307,CLM201307,phone,multi point accident with wind conditions,0,0.0,highway,rain,front_end,0
+FNOL301308,CLM201308,web_portal,multi point accident with clear conditions,0,0.0,residential_street,fog,multi_point,0
+FNOL301309,CLM201309,web_portal,right side accident with clear conditions,1,0.0,parking_lot,clear,right_side,0
+FNOL301310,CLM201310,phone,front end accident with fog conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL301311,CLM201311,phone,front end accident with fog conditions,0,0.0,intersection,rain,multi_point,1
+FNOL301312,CLM201312,agent,rear end accident with fog conditions,0,0.0,highway,clear,left_side,0
+FNOL301313,CLM201313,phone,multi point accident with clear conditions,0,0.0,highway,clear,front_end,0
+FNOL301314,CLM201314,mobile_app,front end accident with wind conditions,0,0.0,urban_arterial,clear,multi_point,1
+FNOL301315,CLM201315,phone,front end accident with fog conditions,1,0.0,intersection,rain,right_side,0
+FNOL301316,CLM201316,mobile_app,right side accident with clear conditions,0,1.0,highway,night_clear,right_side,0
+FNOL301317,CLM201317,phone,left side accident with rain conditions,0,0.0,highway,rain,rear_end,0
+FNOL301318,CLM201318,phone,front end accident with clear conditions,1,0.0,urban_arterial,night_clear,rear_end,0
+FNOL301319,CLM201319,phone,front end accident with night clear conditions,0,0.0,residential_street,rain,right_side,1
+FNOL301320,CLM201320,agent,left side accident with wind conditions,0,1.0,highway,rain,left_side,1
+FNOL301321,CLM201321,phone,right side accident with fog conditions,1,0.0,urban_arterial,clear,right_side,0
+FNOL301322,CLM201322,phone,rear end accident with clear conditions,0,0.0,parking_lot,clear,right_side,1
+FNOL301323,CLM201323,phone,right side accident with night clear conditions,0,1.0,intersection,clear,multi_point,0
+FNOL301324,CLM201324,phone,rear end accident with rain conditions,1,1.0,highway,clear,front_end,1
+FNOL301325,CLM201325,agent,multi point accident with fog conditions,1,0.0,highway,fog,rear_end,0
+FNOL301326,CLM201326,phone,rear end accident with wind conditions,0,0.0,highway,clear,rear_end,0
+FNOL301327,CLM201327,web_portal,front end accident with rain conditions,0,0.0,intersection,clear,rear_end,1
+FNOL301328,CLM201328,mobile_app,front end accident with night clear conditions,0,1.0,residential_street,wind,front_end,0
+FNOL301329,CLM201329,agent,multi point accident with rain conditions,0,0.0,urban_arterial,clear,front_end,1
+FNOL301330,CLM201330,agent,front end accident with rain conditions,1,0.0,parking_lot,night_clear,rear_end,0
+FNOL301331,CLM201331,phone,multi point accident with clear conditions,0,0.0,highway,night_clear,left_side,0
+FNOL301332,CLM201332,web_portal,front end accident with rain conditions,0,0.0,urban_arterial,clear,rear_end,1
+FNOL301333,CLM201333,agent,front end accident with wind conditions,0,0.0,intersection,clear,front_end,0
+FNOL301334,CLM201334,agent,left side accident with fog conditions,1,1.0,urban_arterial,night_clear,front_end,1
+FNOL301335,CLM201335,agent,rear end accident with night clear conditions,0,0.0,highway,night_clear,rear_end,1
+FNOL301336,CLM201336,web_portal,rear end accident with night clear conditions,0,0.0,parking_lot,night_clear,left_side,0
+FNOL301337,CLM201337,mobile_app,front end accident with rain conditions,1,0.0,residential_street,clear,front_end,0
+FNOL301338,CLM201338,phone,right side accident with wind conditions,1,0.0,urban_arterial,rain,front_end,0
+FNOL301339,CLM201339,agent,rear end accident with fog conditions,0,0.0,residential_street,clear,front_end,0
+FNOL301340,CLM201340,agent,multi point accident with fog conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL301341,CLM201341,phone,right side accident with rain conditions,0,0.0,intersection,clear,right_side,0
+FNOL301342,CLM201342,mobile_app,front end accident with clear conditions,1,0.0,urban_arterial,wind,multi_point,0
+FNOL301343,CLM201343,phone,rear end accident with fog conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL301344,CLM201344,phone,left side accident with wind conditions,1,0.0,intersection,wind,rear_end,1
+FNOL301345,CLM201345,phone,left side accident with night clear conditions,0,1.0,parking_lot,clear,right_side,0
+FNOL301346,CLM201346,phone,rear end accident with fog conditions,1,1.0,residential_street,night_clear,left_side,0
+FNOL301347,CLM201347,web_portal,right side accident with clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL301348,CLM201348,phone,multi point accident with fog conditions,0,0.0,urban_arterial,night_clear,left_side,1
+FNOL301349,CLM201349,mobile_app,left side accident with rain conditions,1,0.0,intersection,fog,multi_point,1
+FNOL301350,CLM201350,mobile_app,left side accident with night clear conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL301351,CLM201351,agent,multi point accident with wind conditions,0,1.0,intersection,wind,left_side,1
+FNOL301352,CLM201352,phone,front end accident with night clear conditions,0,0.0,residential_street,rain,right_side,1
+FNOL301353,CLM201353,phone,front end accident with rain conditions,1,0.0,intersection,clear,rear_end,0
+FNOL301354,CLM201354,web_portal,multi point accident with fog conditions,0,0.0,highway,clear,multi_point,0
+FNOL301355,CLM201355,web_portal,left side accident with clear conditions,0,1.0,urban_arterial,night_clear,multi_point,0
+FNOL301356,CLM201356,mobile_app,multi point accident with clear conditions,1,0.0,highway,night_clear,right_side,0
+FNOL301357,CLM201357,mobile_app,multi point accident with rain conditions,1,0.0,intersection,rain,front_end,0
+FNOL301358,CLM201358,agent,multi point accident with rain conditions,0,0.0,parking_lot,clear,left_side,0
+FNOL301359,CLM201359,phone,front end accident with wind conditions,0,0.0,residential_street,clear,left_side,0
+FNOL301360,CLM201360,phone,right side accident with rain conditions,0,0.0,urban_arterial,clear,rear_end,0
+FNOL301361,CLM201361,agent,left side accident with night clear conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL301362,CLM201362,agent,right side accident with wind conditions,0,0.0,residential_street,clear,rear_end,1
+FNOL301363,CLM201363,phone,multi point accident with night clear conditions,1,0.0,residential_street,clear,front_end,1
+FNOL301364,CLM201364,agent,right side accident with rain conditions,0,0.0,parking_lot,night_clear,right_side,1
+FNOL301365,CLM201365,phone,left side accident with fog conditions,0,1.0,highway,night_clear,multi_point,0
+FNOL301366,CLM201366,agent,multi point accident with fog conditions,0,0.0,residential_street,clear,front_end,0
+FNOL301367,CLM201367,web_portal,multi point accident with wind conditions,1,0.0,highway,rain,left_side,1
+FNOL301368,CLM201368,mobile_app,front end accident with night clear conditions,0,,urban_arterial,rain,left_side,1
+FNOL301369,CLM201369,agent,multi point accident with fog conditions,0,0.0,highway,clear,front_end,0
+FNOL301370,CLM201370,agent,left side accident with night clear conditions,0,0.0,intersection,clear,left_side,0
+FNOL301371,CLM201371,phone,front end accident with fog conditions,1,0.0,urban_arterial,clear,rear_end,0
+FNOL301372,CLM201372,web_portal,front end accident with rain conditions,0,0.0,highway,clear,rear_end,0
+FNOL301373,CLM201373,agent,right side accident with clear conditions,0,0.0,residential_street,wind,rear_end,0
+FNOL301374,CLM201374,mobile_app,front end accident with rain conditions,1,0.0,highway,clear,multi_point,1
+FNOL301375,CLM201375,phone,right side accident with rain conditions,1,0.0,intersection,fog,multi_point,1
+FNOL301376,CLM201376,phone,left side accident with rain conditions,0,0.0,parking_lot,clear,left_side,0
+FNOL301377,CLM201377,agent,multi point accident with fog conditions,0,1.0,parking_lot,fog,left_side,0
+FNOL301378,CLM201378,phone,rear end accident with rain conditions,1,1.0,highway,fog,left_side,1
+FNOL301379,CLM201379,mobile_app,left side accident with night clear conditions,0,0.0,urban_arterial,night_clear,front_end,0
+FNOL301380,CLM201380,mobile_app,front end accident with rain conditions,0,0.0,highway,clear,rear_end,0
+FNOL301381,CLM201381,phone,right side accident with wind conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL301382,CLM201382,phone,multi point accident with wind conditions,1,,urban_arterial,night_clear,rear_end,1
+FNOL301383,CLM201383,phone,front end accident with night clear conditions,0,0.0,intersection,clear,multi_point,0
+FNOL301384,CLM201384,phone,multi point accident with wind conditions,0,1.0,intersection,clear,right_side,0
+FNOL301385,CLM201385,agent,right side accident with rain conditions,0,1.0,parking_lot,clear,left_side,0
+FNOL301386,CLM201386,phone,rear end accident with fog conditions,0,0.0,highway,night_clear,right_side,0
+FNOL301387,CLM201387,phone,right side accident with clear conditions,1,0.0,intersection,clear,left_side,0
+FNOL301388,CLM201388,mobile_app,left side accident with rain conditions,0,0.0,highway,clear,left_side,1
+FNOL301389,CLM201389,agent,multi point accident with night clear conditions,0,0.0,intersection,night_clear,right_side,0
+FNOL301390,CLM201390,phone,left side accident with clear conditions,0,1.0,highway,clear,rear_end,0
+FNOL301391,CLM201391,phone,front end accident with rain conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL301392,CLM201392,web_portal,rear end accident with clear conditions,0,0.0,urban_arterial,rain,left_side,0
+FNOL301393,CLM201393,mobile_app,rear end accident with fog conditions,0,0.0,parking_lot,clear,rear_end,0
+FNOL301394,CLM201394,mobile_app,right side accident with wind conditions,1,0.0,highway,rain,left_side,0
+FNOL301395,CLM201395,phone,multi point accident with clear conditions,1,0.0,urban_arterial,clear,right_side,1
+FNOL301396,CLM201396,agent,right side accident with clear conditions,0,0.0,highway,rain,right_side,0
+FNOL301397,CLM201397,mobile_app,right side accident with night clear conditions,0,0.0,urban_arterial,rain,rear_end,0
+FNOL301398,CLM201398,agent,rear end accident with rain conditions,1,0.0,urban_arterial,clear,rear_end,0
+FNOL301399,CLM201399,agent,rear end accident with clear conditions,0,0.0,intersection,rain,multi_point,1
+FNOL301400,CLM201400,web_portal,left side accident with clear conditions,0,0.0,urban_arterial,night_clear,multi_point,0
+FNOL301401,CLM201401,phone,left side accident with night clear conditions,1,0.0,parking_lot,clear,rear_end,1
+FNOL301402,CLM201402,web_portal,left side accident with night clear conditions,1,0.0,urban_arterial,night_clear,multi_point,0
+FNOL301403,CLM201403,mobile_app,multi point accident with clear conditions,0,0.0,parking_lot,night_clear,multi_point,0
+FNOL301404,CLM201404,phone,front end accident with rain conditions,0,0.0,intersection,clear,rear_end,0
+FNOL301405,CLM201405,phone,multi point accident with clear conditions,0,0.0,highway,rain,rear_end,0
+FNOL301406,CLM201406,phone,front end accident with fog conditions,0,0.0,intersection,night_clear,multi_point,0
+FNOL301407,CLM201407,agent,front end accident with night clear conditions,0,0.0,parking_lot,fog,right_side,0
+FNOL301408,CLM201408,agent,front end accident with wind conditions,0,0.0,residential_street,wind,left_side,0
+FNOL301409,CLM201409,web_portal,right side accident with rain conditions,1,0.0,urban_arterial,clear,multi_point,1
+FNOL301410,CLM201410,web_portal,front end accident with wind conditions,0,0.0,intersection,night_clear,right_side,0
+FNOL301411,CLM201411,mobile_app,left side accident with rain conditions,1,0.0,intersection,clear,rear_end,0
+FNOL301412,CLM201412,agent,rear end accident with night clear conditions,1,0.0,urban_arterial,rain,front_end,0
+FNOL301413,CLM201413,phone,front end accident with fog conditions,1,1.0,urban_arterial,night_clear,multi_point,1
+FNOL301414,CLM201414,phone,rear end accident with night clear conditions,0,0.0,highway,clear,rear_end,0
+FNOL301415,CLM201415,mobile_app,right side accident with rain conditions,1,0.0,urban_arterial,rain,rear_end,1
+FNOL301416,CLM201416,agent,multi point accident with night clear conditions,0,1.0,highway,fog,right_side,0
+FNOL301417,CLM201417,agent,front end accident with rain conditions,0,0.0,intersection,night_clear,right_side,0
+FNOL301418,CLM201418,agent,multi point accident with wind conditions,0,1.0,intersection,rain,rear_end,0
+FNOL301419,CLM201419,web_portal,left side accident with clear conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL301420,CLM201420,phone,multi point accident with rain conditions,0,0.0,highway,clear,right_side,1
+FNOL301421,CLM201421,phone,front end accident with fog conditions,0,0.0,residential_street,clear,rear_end,0
+FNOL301422,CLM201422,mobile_app,multi point accident with fog conditions,0,0.0,intersection,clear,rear_end,0
+FNOL301423,CLM201423,web_portal,rear end accident with clear conditions,0,0.0,intersection,rain,multi_point,0
+FNOL301424,CLM201424,mobile_app,front end accident with clear conditions,1,0.0,intersection,rain,right_side,0
+FNOL301425,CLM201425,phone,front end accident with night clear conditions,0,0.0,parking_lot,clear,front_end,0
+FNOL301426,CLM201426,mobile_app,rear end accident with rain conditions,0,0.0,residential_street,clear,left_side,1
+FNOL301427,CLM201427,agent,multi point accident with wind conditions,1,1.0,urban_arterial,clear,front_end,0
+FNOL301428,CLM201428,phone,front end accident with clear conditions,0,0.0,intersection,night_clear,rear_end,0
+FNOL301429,CLM201429,web_portal,left side accident with rain conditions,0,0.0,parking_lot,clear,multi_point,0
+FNOL301430,CLM201430,phone,rear end accident with clear conditions,0,0.0,parking_lot,rain,front_end,0
+FNOL301431,CLM201431,mobile_app,right side accident with fog conditions,1,1.0,parking_lot,wind,left_side,1
+FNOL301432,CLM201432,web_portal,rear end accident with fog conditions,0,,highway,night_clear,front_end,0
+FNOL301433,CLM201433,phone,front end accident with fog conditions,1,0.0,highway,fog,front_end,0
+FNOL301434,CLM201434,web_portal,multi point accident with wind conditions,1,1.0,intersection,clear,rear_end,1
+FNOL301435,CLM201435,web_portal,multi point accident with wind conditions,0,0.0,highway,clear,front_end,0
+FNOL301436,CLM201436,phone,rear end accident with rain conditions,1,0.0,urban_arterial,clear,left_side,1
+FNOL301437,CLM201437,agent,right side accident with fog conditions,0,0.0,parking_lot,wind,right_side,0
+FNOL301438,CLM201438,agent,right side accident with clear conditions,1,0.0,highway,clear,right_side,1
+FNOL301439,CLM201439,mobile_app,multi point accident with wind conditions,0,0.0,parking_lot,clear,rear_end,1
+FNOL301440,CLM201440,phone,front end accident with rain conditions,0,0.0,residential_street,clear,front_end,0
+FNOL301441,CLM201441,mobile_app,front end accident with clear conditions,1,0.0,parking_lot,rain,front_end,1
+FNOL301442,CLM201442,phone,front end accident with night clear conditions,0,0.0,intersection,clear,left_side,0
+FNOL301443,CLM201443,phone,left side accident with fog conditions,1,0.0,highway,clear,multi_point,0
+FNOL301444,CLM201444,web_portal,right side accident with clear conditions,0,0.0,intersection,clear,right_side,1
+FNOL301445,CLM201445,agent,rear end accident with clear conditions,0,0.0,parking_lot,rain,rear_end,0
+FNOL301446,CLM201446,phone,rear end accident with rain conditions,1,0.0,intersection,clear,right_side,1
+FNOL301447,CLM201447,web_portal,rear end accident with night clear conditions,0,0.0,intersection,rain,rear_end,0
+FNOL301448,CLM201448,web_portal,front end accident with clear conditions,1,0.0,urban_arterial,fog,rear_end,0
+FNOL301449,CLM201449,web_portal,left side accident with fog conditions,0,0.0,residential_street,rain,rear_end,0
+FNOL301450,CLM201450,agent,front end accident with rain conditions,0,0.0,urban_arterial,clear,front_end,0
+FNOL301451,CLM201451,phone,multi point accident with wind conditions,0,0.0,parking_lot,rain,front_end,0
+FNOL301452,CLM201452,mobile_app,right side accident with fog conditions,0,1.0,urban_arterial,rain,front_end,0
+FNOL301453,CLM201453,phone,rear end accident with fog conditions,0,0.0,urban_arterial,clear,left_side,0
+FNOL301454,CLM201454,phone,multi point accident with night clear conditions,0,0.0,intersection,clear,rear_end,0
+FNOL301455,CLM201455,mobile_app,right side accident with clear conditions,0,1.0,intersection,night_clear,front_end,0
+FNOL301456,CLM201456,phone,multi point accident with rain conditions,1,0.0,parking_lot,clear,rear_end,0
+FNOL301457,CLM201457,phone,right side accident with clear conditions,0,0.0,residential_street,rain,rear_end,1
+FNOL301458,CLM201458,phone,right side accident with rain conditions,0,1.0,intersection,clear,front_end,1
+FNOL301459,CLM201459,phone,left side accident with rain conditions,1,0.0,intersection,fog,rear_end,1
+FNOL301460,CLM201460,phone,right side accident with night clear conditions,1,1.0,urban_arterial,clear,front_end,0
+FNOL301461,CLM201461,phone,right side accident with wind conditions,1,0.0,urban_arterial,wind,right_side,0
+FNOL301462,CLM201462,phone,multi point accident with rain conditions,0,0.0,intersection,clear,rear_end,0
+FNOL301463,CLM201463,web_portal,left side accident with wind conditions,1,0.0,urban_arterial,clear,right_side,1
+FNOL301464,CLM201464,web_portal,right side accident with night clear conditions,0,0.0,parking_lot,wind,rear_end,0
+FNOL301465,CLM201465,agent,multi point accident with clear conditions,0,0.0,residential_street,clear,right_side,0
+FNOL301466,CLM201466,agent,right side accident with fog conditions,0,0.0,residential_street,clear,rear_end,1
+FNOL301467,CLM201467,agent,right side accident with fog conditions,0,1.0,urban_arterial,wind,multi_point,0
+FNOL301468,CLM201468,web_portal,rear end accident with night clear conditions,0,0.0,parking_lot,night_clear,rear_end,1
+FNOL301469,CLM201469,phone,multi point accident with rain conditions,0,0.0,residential_street,clear,multi_point,0
+FNOL301470,CLM201470,phone,multi point accident with wind conditions,0,0.0,intersection,rain,rear_end,0
+FNOL301471,CLM201471,agent,front end accident with fog conditions,0,0.0,residential_street,clear,right_side,0
+FNOL301472,CLM201472,agent,multi point accident with rain conditions,0,0.0,intersection,rain,rear_end,1
+FNOL301473,CLM201473,mobile_app,multi point accident with rain conditions,1,0.0,urban_arterial,wind,rear_end,0
+FNOL301474,CLM201474,mobile_app,front end accident with night clear conditions,1,0.0,urban_arterial,rain,rear_end,0
+FNOL301475,CLM201475,phone,multi point accident with night clear conditions,1,0.0,intersection,clear,rear_end,0
+FNOL301476,CLM201476,phone,left side accident with rain conditions,0,0.0,urban_arterial,clear,front_end,0
+FNOL301477,CLM201477,mobile_app,rear end accident with fog conditions,0,0.0,urban_arterial,rain,left_side,1
+FNOL301478,CLM201478,phone,rear end accident with clear conditions,0,0.0,urban_arterial,fog,front_end,0
+FNOL301479,CLM201479,mobile_app,left side accident with fog conditions,0,0.0,parking_lot,rain,left_side,0
+FNOL301480,CLM201480,agent,left side accident with night clear conditions,1,1.0,intersection,clear,rear_end,0
+FNOL301481,CLM201481,agent,multi point accident with wind conditions,0,0.0,intersection,clear,left_side,0
+FNOL301482,CLM201482,agent,left side accident with fog conditions,0,0.0,urban_arterial,wind,right_side,0
+FNOL301483,CLM201483,phone,front end accident with wind conditions,1,1.0,highway,clear,rear_end,1
+FNOL301484,CLM201484,phone,front end accident with fog conditions,0,0.0,highway,night_clear,right_side,0
+FNOL301485,CLM201485,web_portal,left side accident with fog conditions,0,0.0,intersection,rain,rear_end,0
+FNOL301486,CLM201486,mobile_app,front end accident with clear conditions,1,0.0,residential_street,wind,front_end,0
+FNOL301487,CLM201487,agent,right side accident with clear conditions,0,0.0,highway,clear,right_side,0
+FNOL301488,CLM201488,phone,rear end accident with fog conditions,1,0.0,highway,clear,left_side,1
+FNOL301489,CLM201489,phone,multi point accident with clear conditions,0,0.0,highway,night_clear,front_end,0
+FNOL301490,CLM201490,phone,front end accident with clear conditions,0,0.0,parking_lot,rain,rear_end,1
+FNOL301491,CLM201491,mobile_app,rear end accident with rain conditions,0,1.0,residential_street,clear,left_side,1
+FNOL301492,CLM201492,phone,multi point accident with fog conditions,0,1.0,parking_lot,night_clear,front_end,0
+FNOL301493,CLM201493,phone,front end accident with wind conditions,0,0.0,residential_street,clear,multi_point,0
+FNOL301494,CLM201494,phone,right side accident with night clear conditions,0,0.0,urban_arterial,fog,right_side,0
+FNOL301495,CLM201495,phone,front end accident with wind conditions,0,0.0,parking_lot,clear,rear_end,1
+FNOL301496,CLM201496,web_portal,multi point accident with night clear conditions,0,0.0,parking_lot,night_clear,front_end,0
+FNOL301497,CLM201497,phone,rear end accident with rain conditions,0,0.0,urban_arterial,night_clear,left_side,0
+FNOL301498,CLM201498,agent,left side accident with wind conditions,0,0.0,parking_lot,clear,left_side,0
+FNOL301499,CLM201499,web_portal,rear end accident with clear conditions,0,1.0,intersection,clear,rear_end,0
