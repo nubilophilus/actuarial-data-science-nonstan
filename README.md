@@ -1,5 +1,7 @@
 # Non-Standard Auto Claims Analytics for Actuarial Data Science
 
+Created by RASHEED ADEYEMI as an actuarial data science portfolio project.
+
 ## Executive Summary
 
 This project demonstrates how a non-standard auto insurer can turn operational claims data into actionable actuarial and claims analytics. It models a realistic environment where Guidewire serves as the claims system of record, FNOL captures early loss details, and Hi Marley-style communications add behavioral and operational signals. The repository combines synthetic insurance data, modular Python pipelines, SQL analytics, and predictive models for claim severity and bodily injury exposure. The result is a portfolio-grade example of how claims operations, analytics engineering, and actuarial decision support can be connected in a single end-to-end workflow.
@@ -244,4 +246,4 @@ This project is tailored for recruiters, hiring managers, and technical reviewer
 
 ## License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the [MIT License](LICENSE). - Cr
