@@ -1,3 +1,8 @@
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
 from src.data_cleaning import clean_datasets
 from src.data_generation import generate_synthetic_insurance_data
 from src.feature_engineering import build_analytical_base_table
