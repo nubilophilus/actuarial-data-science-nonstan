@@ -4,8 +4,6 @@
 
 This project demonstrates how a non-standard auto insurer can turn operational claims data into actionable actuarial and claims analytics. It models a realistic environment where Guidewire serves as the claims system of record, FNOL captures early loss details, and Hi Marley-style communications add behavioral and operational signals. The repository combines synthetic insurance data, modular Python pipelines, SQL analytics, and predictive models for claim severity and bodily injury exposure. The result is a portfolio-grade example of how claims operations, analytics engineering, and actuarial decision support can be connected in a single end-to-end workflow.
 
-End-to-end actuarial data science project for a non-standard auto insurer. The repository simulates how operational claims data flows from Guidewire, FNOL intake, and Hi Marley-style communications into analytics, feature engineering, and predictive models that support claim triage, reserving insight, and bodily injury exposure monitoring.
-
 ## Why This Project Matters
 
 Non-standard auto insurers manage portfolios with elevated claim frequency, volatile severity, higher attorney involvement, and more operational complexity than preferred auto books. That makes early claim intelligence valuable. This project shows how a carrier can combine:
