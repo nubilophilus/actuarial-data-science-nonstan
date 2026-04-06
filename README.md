@@ -246,4 +246,4 @@ This project is tailored for recruiters, hiring managers, and technical reviewer
 
 ## License
 
-This project is released under the [MIT License](LICENSE). - Cr
+This project is released under the [MIT License](LICENSE).
